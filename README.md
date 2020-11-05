@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+<!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mrpmohiburrahman)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrpmohiburrahman)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrpmohiburrahman&layout=compact&langs_count=8&hide=c++)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/mrpmohiburrahman/mrpmohiburrahman">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrpmohiburrahman&hide=c++&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 <!--
 **mrpmohiburrahman/mrpmohiburrahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
