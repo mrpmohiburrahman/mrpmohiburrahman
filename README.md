@@ -24,8 +24,8 @@ Following technology is used for this project:
 
 
 ### Acomplishment
-Object Oriented Analysis and Design by DevSkill (1st position)  
-Complete Guide to Android & IOS App Development: Created a cross-platform app with React-Native in [frontend](https://github.com/mrpmohiburrahman/BootcampApp) and Express.js as [backend](https://github.com/mrpmohiburrahman/BootcampApi).
+* Object Oriented Analysis and Design by DevSkill (earned 1st position in overall performance)  
+* Complete Guide to Android & IOS App Development
 
 ### 🔧 Technologies & Tools
 react native
