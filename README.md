@@ -47,25 +47,6 @@ Following technology is used for this project:
     <td>&nbsp</td>
   </tr>
 </table> 
-  * **Front End**
-      * React Native
-      * JavaScript
-      * Axios
-      * Formik
-      * yup   
-  * **Back End**
-      * Express.js
-      * mongoose
-      * jsonwebtoken
-      * morgan
-      * slugify
-      * dotenv
-      * bcryptjs
-
-  * **Data Base**
-      * MongoDB
-
-
 
 ### Acomplishment
 * Object Oriented Analysis and Design by DevSkill (earned 1st position in overall performance)  
