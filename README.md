@@ -3,6 +3,50 @@
 ### Most Prideful Project
 * [BootCamp app](https://github.com/mrpmohiburrahman/BootcampApp) This mobile app is made with React-Native. It lets user participate in bootcamp and let organizer organize their bootcamps. Both front-end and back-end done manually using ***React-Native*** and ***express.js***  
 Following technology is used for this project:  
+ <table style="width:600px">
+  <thead align="center">
+   <tr border: none;>
+     <th>Front End</th>
+     <th>Back End</th>
+     <th>Data Base</th>
+   </tr>
+  </thead>
+  <tr>
+    <td>React Native</td>
+    <td>Express.js</td>
+    <td>MongoDB</td>
+  </tr>
+  <tr>
+    <td>JavaScript</td>
+    <td>mongoose</td>
+    <td>&nbsp</td>
+  </tr>
+  <tr>
+    <td>Axios</td>
+    <td>jsonwebtoken</td>
+    <td>&nbsp</td>
+  </tr>
+  <tr>
+    <td>Formik</td>
+    <td>morgan</td>
+    <td>&nbsp</td>
+  </tr>
+  <tr>
+    <td>yup</td>
+    <td>slugify</td>
+    <td>&nbsp</td>
+  </tr>
+  <tr>
+    <td>&nbsp</td>
+    <td>dotenv</td>
+    <td>&nbsp</td>
+  </tr>
+  <tr>
+    <td>&nbsp</td>
+    <td>bcryptjs</td>
+    <td>&nbsp</td>
+  </tr>
+</table> 
   * **Front End**
       * React Native
       * JavaScript
