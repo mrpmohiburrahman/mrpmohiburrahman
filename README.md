@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## Most Prideful Project
 * [BootCamp app](https://github.com/mrpmohiburrahman/BootcampApp) This mobile app is made with React-Native. It lets user participate in bootcamp and let organizer organize their bootcamps. Both front-end and back-end done manually using ***React-Native*** and ***express.js***  
 Following technology is used for this project:  
