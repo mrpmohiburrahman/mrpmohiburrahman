@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Most Prideful Project
+## Most Prideful Project
 * [BootCamp app](https://github.com/mrpmohiburrahman/BootcampApp) This mobile app is made with React-Native. It lets user participate in bootcamp and let organizer organize their bootcamps. Both front-end and back-end done manually using ***React-Native*** and ***express.js***  
 Following technology is used for this project:  
 
@@ -53,18 +53,18 @@ Following technology is used for this project:
 <br/>
 
 
-### Acomplishment
+## Acomplishment
 ![](https://img.shields.io/badge/🥇%20%20Position-1st-brightgreen?style=for-the-badge)  
 * Object Oriented Analysis and Design by DevSkill (earned ***1st position*** :1st_place_medal: in overall performance)  
 * Complete Guide to Android & IOS App Development ( REACT NATIVE )
 
-### 🔧 Technologies & Tools
+## 🔧 Technologies & Tools
 react native
 vim
 c/c++
 java
 
-### System & Browser
+## System & Browser
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![OS](https://img.shields.io/badge/OS-windows-informational?style=flat-square&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 ![Chrome](https://img.shields.io/badge/BROWSER-Chrome-292e33?style=flat-square&logo=google-chrome&logoColor=fff)
@@ -73,7 +73,7 @@ java
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=2bbc8a)
 [![Dotfiles](https://img.shields.io/badge/Setup_-Dotfiles-blue?style=flat-square&logo=when-i-work&logoColor=white)](https://github.com/mrpmohiburrahman/dotfiles)
 
-### Stack & Skill
+## Stack & Skill
 
 ![Git](https://img.shields.io/badge/_-Git-292e33?style=flat-square&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/_-GitHub-292e33?style=flat-square&logo=github)
@@ -83,7 +83,7 @@ java
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=2bbc8a)
 ![firebase](https://img.shields.io/badge/_-firebase-292e33?style=flat-square&logo=firebase&logoColor=fff)
 
-### Others
+## Others
 
 ![](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white&color=2bbc8a)
 
