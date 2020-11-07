@@ -57,6 +57,10 @@ Following technology is used for this project:
 * Object Oriented Analysis and Design by DevSkill (earned ***1st position*** :1st_place_medal: in overall performance)  
 * Complete Guide to Android & IOS App Development ( REACT NATIVE )
 
+<br/>
+<br/>
+
+
 ## Stack & Skill
 
 ![React](https://img.shields.io/badge/Code-React%20Native-informational?style=flat-square&logo=react&logoColor=fff)
@@ -73,21 +77,29 @@ Following technology is used for this project:
 [![Dotfiles](https://img.shields.io/badge/Setup-Dotfiles-informational?style=flat-square&logo=when-i-work&logoColor=white)](https://github.com/mrpmohiburrahman/dotfiles)
 
 
+<br/>
+<br/>
+
+
 ## System & Browser
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![OS](https://img.shields.io/badge/OS-windows-informational?style=flat-square&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 ![Chrome](https://img.shields.io/badge/BROWSER-Chrome-292e33?style=flat-square&logo=google-chrome&logoColor=fff)
 ![Firefox](https://img.shields.io/badge/BROWSER-Firefox-292e33?style=flat-square&logo=firefox&logoColor=fff)
 
-## Others
 
-![](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white&color=2bbc8a)
+<br/>
+<br/>
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-br3ndonland-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/br3ndonland/)
-![Youtube](https://img.shields.io/badge/_-Youtube-292e33?style=flat-square&logo=youtube&logoColor=fff)
-![Twitter](https://img.shields.io/badge/_-Twitter-292e33?style=flat-square&logo=twitter&logoColor=fff)
-![Instagram](https://img.shields.io/badge/_-Instagram-292e33?style=flat-square&logo=Instagram&logoColor=fff)
+## Social
+
+[![](https://img.shields.io/badge/Stack%20Overflow-MRPMOHIBURRAHMAN-informational?style=flat-square&logo=Stack-Overflow&logoColor=white&color=2bbc8a)](https://stackoverflow.com/users/14302873/mrpmohiburrahman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MD.MOHIBUR&20RAMAHN-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrpmohiburrahman/)
+[![Instagram](https://img.shields.io/badge/Instagram-mrp_mohibur_rahman-informational?style=flat-square&logo=Instagram&logoColor=fff)](https://www.instagram.com/mrp_mohibur_rahman/)
+[![FaceBook](https://img.shields.io/badge/FaceBook-Mrp%20Mohibur%20Rahman-informational?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/mrpm0h18urr4hm4n/)
+[![Youtube](https://img.shields.io/badge/Youtube-MD.MOHIBUR&20RAMAHN-informational?style=flat-square&logo=youtube&logoColor=fff)](https://www.youtube.com/channel/UCsfKEeDevmVeZezmC9JbgGQ?view_as=subscriber)
+
 <!--
 **mrpmohiburrahman/mrpmohiburrahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
