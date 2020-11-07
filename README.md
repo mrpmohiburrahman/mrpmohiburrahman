@@ -58,6 +58,12 @@ Following technology is used for this project:
 <br/>
 <br/>
 
+## Stats
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=mrpmohiburrahman&hide_border=true&hide_title=true&count_private=true&include_all_commits=true)](https://github.com/mrpmohiburrahman/github-readme-stats)
+
+<br/>
+<br/>
 
 ## Stack & Skill
 
