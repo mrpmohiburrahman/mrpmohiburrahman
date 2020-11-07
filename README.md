@@ -3,7 +3,9 @@
 ### Most Prideful Project
 * [BootCamp app](https://github.com/mrpmohiburrahman/BootcampApp) This mobile app is made with React-Native. It lets user participate in bootcamp and let organizer organize their bootcamps. Both front-end and back-end done manually using ***React-Native*** and ***express.js***  
 Following technology is used for this project:  
- <table style="width:600px">
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/mrpmohiburrahman/BootcampApp/master/assets/gifs/bootcamp%20app%20demo_width_256.gif" width="200"/>
+<table style="width:600px">
   <thead align="center">
    <tr border: none;>
      <th>Front End</th>
@@ -47,7 +49,7 @@ Following technology is used for this project:
     <td>&nbsp</td>
   </tr>
 </table> 
-
+<br/>
 ### Acomplishment
 * Object Oriented Analysis and Design by DevSkill (earned 1st position :1st_place_medal: in overall performance)  
 * Complete Guide to Android & IOS App Development
