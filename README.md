@@ -53,7 +53,7 @@ Following technology is used for this project:
 <br/>
 
 
-## Acomplishment ![](https://img.shields.io/badge/🥇%20%20Position-1st-brightgreen?style=for-the-badge)  
+## Acomplishment ![](https://img.shields.io/badge/🥇%20%20Position-1st-brightgreen?style=flat-square)  
 * Object Oriented Analysis and Design by DevSkill (earned ***1st position*** :1st_place_medal: in overall performance)  
 * Complete Guide to Android & IOS App Development ( REACT NATIVE )
 
