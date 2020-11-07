@@ -50,6 +50,9 @@ Following technology is used for this project:
   </tr>
 </table> 
 <br/>
+<br/>
+
+
 ### Acomplishment
 * Object Oriented Analysis and Design by DevSkill (earned 1st position :1st_place_medal: in overall performance)  
 * Complete Guide to Android & IOS App Development
