@@ -80,6 +80,7 @@ Following technology is used for this project:
 * Object Oriented Analysis and Design by DevSkill (earned ***1st position*** :1st_place_medal: in overall performance)  
 * Complete Guide to Android & IOS App Development ( REACT NATIVE )  
 
+[![Stack Overflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/14302873?order=desc&sort=reputation&site=stackoverflow?style=flat-square)](https://stackoverflow.com/users/14302873/mrpmohiburrahman)
 ![(https://img.shields.io/stackexchange/stackoverflow/r/14302873?order=desc&sort=reputation&site=stackoverflow?style=flat-square)]((https://stackoverflow.com/users/14302873/mrpmohiburrahman))
 <br/>
 <br/>
