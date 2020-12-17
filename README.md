@@ -80,13 +80,13 @@ Following technology is used for this project:
 * Object Oriented Analysis and Design by DevSkill (earned ***1st position*** :1st_place_medal: in overall performance)  
 * Complete Guide to Android & IOS App Development ( REACT NATIVE )  
 
-![Stack Overflow Stats](https://img.shields.io/stackexchange/stackoverflow/r/14302873?order=desc&sort=reputation&site=stackoverflow?style=flat-square)
+![(https://img.shields.io/stackexchange/stackoverflow/r/14302873?order=desc&sort=reputation&site=stackoverflow?style=flat-square)]((https://stackoverflow.com/users/14302873/mrpmohiburrahman))
 <br/>
 <br/>
 
 ## Stats ![profile views](https://komarev.com/ghpvc/?username=mrpmohiburrahman&style=flat-square)
 
-[[![Stats](https://github-readme-stats.mrpmohiburrahman.vercel.app/api?username=mrpmohiburrahman&hide_border=true&hide_title=true&count_private=true&include_all_commits=true)](https://github.com/mrpmohiburrahman/github-readme-stats)](https://stackoverflow.com/users/14302873/mrpmohiburrahman)
+[![Stats](https://github-readme-stats.mrpmohiburrahman.vercel.app/api?username=mrpmohiburrahman&hide_border=true&hide_title=true&count_private=true&include_all_commits=true)](https://github.com/mrpmohiburrahman/github-readme-stats)
 
 <br/>
 <br/>
