@@ -92,10 +92,10 @@ Following technology is used for this project:
 
 ## Stack & Skill
 
-![React](https://img.shields.io/badge/Code-React%20Native-informational?style=flat-square&logo=react&logoColor=fff)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=2bbc8a)
-![mongodb](https://img.shields.io/badge/server-mongodb-informational?style=flat-square&logo=mongodb&logoColor=fff)
-![firebase](https://img.shields.io/badge/server-firebase-informational?style=flat-square&logo=firebase&logoColor=fff)
+![React](https://img.shields.io/badge/Framework-React%20Native-informational?style=flat-square&logo=react&logoColor=fff)
+![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=2bbc8a)
+![mongodb](https://img.shields.io/badge/Database-mongodb-informational?style=flat-square&logo=mongodb&logoColor=fff)
+![firebase](https://img.shields.io/badge/Baas-firebase-informational?style=flat-square&logo=firebase&logoColor=fff)
 
 ![Git](https://img.shields.io/badge/Version%20Control-Git-informational?style=flat-square&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/Hosting%20Git-GitHub-informational?style=flat-square&logo=github&logoColor=fff)
