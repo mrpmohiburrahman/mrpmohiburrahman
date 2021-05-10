@@ -109,7 +109,7 @@ Following technology is used for this project:
 <br/>
 <br/>
 
-
+<!---
 ## System & Browser
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![OS](https://img.shields.io/badge/OS-windows-informational?style=flat-square&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
@@ -120,7 +120,7 @@ Following technology is used for this project:
 <br/>
 <br/>
 
-
+--->
 ## Social
 
 [![](https://img.shields.io/badge/Stack%20Overflow-MRPMOHIBURRAHMAN-informational?style=flat-square&logo=Stack-Overflow&logoColor=white&color=2bbc8a)](https://stackoverflow.com/users/14302873/mrpmohiburrahman)
