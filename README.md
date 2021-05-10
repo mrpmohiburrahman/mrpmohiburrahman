@@ -1,3 +1,31 @@
+<details>
+  <summary><h1>Dot Files</h1></summary>
+  
+  <img alt="GIF" align="right" src="https://raw.githubusercontent.com/mrpmohiburrahman/assets/main/dotFilesAssets/final.gif?token=AINKGPKS64U5S3KAX4T62P27XICVS" width="450"/>
+
+  <br/>
+  After hours of debugging, finally getting somewhere.
+
+  My most beautiful [shell](https://github.com/mrpmohiburrahman/dotfiles)...
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+
+  [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
+  ![](https://img.shields.io/badge/Terminal-iterm2-informational?style=flat-square&logo=powershell&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/shell-zsh-2bbc8a.svg?&style=flat-square&logo=gnu-bash&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Framework-Oh_My_Zsh-informational?style=flat-square&logo=powershell&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/editor-vim-informational?style=flat-square&logo=vim&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/code-c-informational?style=flat-square&logo=c&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/code-c++-blue.svg?style=flat-square&logo=c%2B%2B)
+  ![](https://img.shields.io/github/license/Naereen/StrapDown.js.svg?style=flat-square)
+
+</details>
+<!---
 ## Dot Files
 <img alt="GIF" align="right" src="https://raw.githubusercontent.com/mrpmohiburrahman/assets/main/dotFilesAssets/final.gif?token=AINKGPKS64U5S3KAX4T62P27XICVS" width="450"/>
 
@@ -20,6 +48,7 @@ My most beautiful [shell](https://github.com/mrpmohiburrahman/dotfiles)...
 ![](https://img.shields.io/badge/code-c-informational?style=flat-square&logo=c&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/code-c++-blue.svg?style=flat-square&logo=c%2B%2B)
 ![](https://img.shields.io/github/license/Naereen/StrapDown.js.svg?style=flat-square)
+--->
 
 <br/>
 
