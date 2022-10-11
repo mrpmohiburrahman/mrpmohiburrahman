@@ -1,8 +1,11 @@
+[![@mrp's Holopin board](https://holopin.io/api/user/board?user=mrp)](https://holopin.io/@mrp)
+
+
 ## Most Prideful Project
 * [BootCamp app](https://github.com/mrpmohiburrahman/BootcampApp) This mobile app is made with React-Native. It lets user participate in bootcamp and let organizer organize their bootcamps. Both front-end and back-end done manually using ***React-Native*** and ***express.js***  
 Following technology is used for this project:  
 <br />
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/mrpmohiburrahman/BootcampApp/master/assets/gifs/bootcamp%20app%20demo_width_256.gif" width="200"/>
+<!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/mrpmohiburrahman/BootcampApp/master/assets/gifs/bootcamp%20app%20demo_width_256.gif" width="200"/> -->
 <table style="width:600px">
   <thead align="center">
    <tr border: none;>
