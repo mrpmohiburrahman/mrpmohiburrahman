@@ -54,7 +54,9 @@ Following technology is used for this project:
  -->
 
 ## Acomplishment ![](https://img.shields.io/badge/🥇%20%20Position-1st-brightgreen?style=flat-square)  
-* Open Source Developer: Maintainer: [react-native-cone-slider](https://github.com/mrpmohiburrahman/react-native-cone-slider)
+* Open Source Developer:
+  * Maintainer: [react-native-squish-button](https://github.com/mrpmohiburrahman/react-native-squish-button) 
+  * Maintainer: [react-native-cone-slider](https://github.com/mrpmohiburrahman/react-native-cone-slider)
 * Hacktoberfest 2022 --> [holopin.io/@mrp#badges](http://www.holopin.io/@mrp#badges)
 * Object Oriented Analysis and Design by DevSkill (earned ***1st position*** :1st_place_medal: in overall performance)  
 * Complete Guide to Android & IOS App Development ( REACT NATIVE )  
