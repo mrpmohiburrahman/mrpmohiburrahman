@@ -88,6 +88,8 @@
 
 </p>
 
+📊 **Weekly development breakdown**
+
 <!--START_SECTION:waka-->
 
 ```txt
