@@ -88,6 +88,8 @@
 
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!-- <h3>My latest posts</h3>
 <ul>
