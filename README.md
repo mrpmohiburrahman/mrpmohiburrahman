@@ -83,7 +83,7 @@
 </p>
 <p  align="center">
 <!-- https://visitor-badge.laobi.icu/ -->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=mrpmohiburrahman.mrpmohiburrahman" alt="visitor badge"/>       
+<img src="https://visitor-badge.laobi.icu/badge?page_id=mrpmohiburrahman.mrpmohiburrahman&left_text=Profile%20Views%20" alt="visitor badge"/>       
 </p>
 
 </p>
