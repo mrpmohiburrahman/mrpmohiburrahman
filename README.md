@@ -58,6 +58,25 @@
     </tr>
   </tbody>
 </table>
+
+<hr>
+<p align="center">
+  <i>Take a look at my repositories and let's get in touch!</i>
+
+<p align="center">
+<a href= "https://github.com/mrpmohiburrahman/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
+<a href= "https://www.linkedin.com/in/mrpmohiburrahman/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+<a href= "https://x.com/mrp_mohibur"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
+<!-- <a href= "https://halfrost.com"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a> -->
+</p>
+<p  align="center">
+<!-- https://visitor-badge.laobi.icu/ -->
+<img src="https://visitor-badge.laobi.icu/badge?page_id=mrpmohiburrahman.mrpmohiburrahman" alt="visitor badge"/>       
+</p>
+
+</p>
+
+
 <!-- <h3>My latest posts</h3>
 <ul>
   <li><a href="https://medium.com/better-programming/create-your-first-ethereum-smart-contract-with-remix-ide-667e46e81901"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Create Your First Ethereum Smart Contract With Remix IDE</b></a><br/><i>Build a Blockchain-powered chat from your browser!.</i></li>
