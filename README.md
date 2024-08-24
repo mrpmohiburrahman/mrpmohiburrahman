@@ -111,27 +111,17 @@
 📊 **Weekly development breakdown**
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2051%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 723 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 144 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                350 commits         ██████░░░░░░░░░░░░░░░░░░░   25.47 % 
-🌆 Daytime                430 commits         ████████░░░░░░░░░░░░░░░░░   31.30 % 
-🌃 Evening                407 commits         ███████░░░░░░░░░░░░░░░░░░   29.62 % 
-🌙 Night                  187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+🌞 Morning                355 commits         ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
+🌆 Daytime                430 commits         ████████░░░░░░░░░░░░░░░░░   31.14 % 
+🌃 Evening                409 commits         ███████░░░░░░░░░░░░░░░░░░   29.62 % 
+🌙 Night                  187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
 ```
 
 
@@ -149,8 +139,24 @@ similar-react-native-libr3 mins              ███████████�
 mrpmohiburrahman         2 mins              ███████████░░░░░░░░░░░░░░   42.61 % 
 ```
 
+**I Mostly Code in TypeScript** 
 
- Last Updated on 24/08/2024 01:28:10 UTC
+```text
+TypeScript               21 repos            █████████░░░░░░░░░░░░░░░░   35.59 % 
+JavaScript               17 repos            ███████░░░░░░░░░░░░░░░░░░   28.81 % 
+Java                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+Lua                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/mrpmohiburrahman/mrpmohiburrahman/main/assets/bar_graph.png)
+
+
+ Last Updated on 24/08/2024 13:56:53 UTC
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
