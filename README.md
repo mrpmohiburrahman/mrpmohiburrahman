@@ -111,17 +111,15 @@
 📊 **Weekly development breakdown**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2051%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2010%20mins-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                355 commits         ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
-🌆 Daytime                430 commits         ████████░░░░░░░░░░░░░░░░░   31.14 % 
-🌃 Evening                409 commits         ███████░░░░░░░░░░░░░░░░░░   29.62 % 
-🌙 Night                  187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+🌞 Morning                355 commits         ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
+🌆 Daytime                430 commits         ████████░░░░░░░░░░░░░░░░░   31.07 % 
+🌃 Evening                412 commits         ███████░░░░░░░░░░░░░░░░░░   29.77 % 
+🌙 Night                  187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
 ```
 
 
@@ -156,7 +154,7 @@ Lua                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mrpmohiburrahman/mrpmohiburrahman/main/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2024 13:56:53 UTC
+ Last Updated on 24/08/2024 15:07:24 UTC
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
