@@ -9,11 +9,24 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=mrpmohiburrahman&theme=onedark&column=-1" />
+<!-- <p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=mrpmohiburrahman&theme=onedark&column=-1" /> -->
 </p>
 
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mrpmohiburrahman&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/Zhenye-Na/DA-RNN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpmohiburrahman&repo=awesome-react-native-ui&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="awesome-react-native-ui" />
+</a>
+
+<a href="https://github.com/Zhenye-Na/crnn-pytorch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpmohiburrahman&repo=react-native-squish-button&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="react-native-squish-button" />
+</a>
 
 
 <h3>Open source projects</h3>
