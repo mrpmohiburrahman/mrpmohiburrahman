@@ -91,6 +91,46 @@
 📊 **Weekly development breakdown**
 
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 723 Contributions in the Year 2024
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 144 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                350 commits         ██████░░░░░░░░░░░░░░░░░░░   25.47 % 
+🌆 Daytime                430 commits         ████████░░░░░░░░░░░░░░░░░   31.30 % 
+🌃 Evening                407 commits         ███████░░░░░░░░░░░░░░░░░░   29.62 % 
+🌙 Night                  187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dhaka
+
+💬 Programming Languages: 
+TypeScript               3 mins              ██████████████░░░░░░░░░░░   57.39 % 
+Bash                     2 mins              ███████████░░░░░░░░░░░░░░   42.61 % 
+
+🐱‍💻 Projects: 
+similar-react-native-libr3 mins              ██████████████░░░░░░░░░░░   57.39 % 
+mrpmohiburrahman         2 mins              ███████████░░░░░░░░░░░░░░   42.61 % 
+```
+
+
+ Last Updated on 24/08/2024 01:28:10 UTC
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
