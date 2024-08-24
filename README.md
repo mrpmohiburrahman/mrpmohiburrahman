@@ -9,6 +9,13 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=mrpmohiburrahman&theme=onedark&column=-1" />
+</p>
+
+
+
+
 <h3>Open source projects</h3>
 
 ```
