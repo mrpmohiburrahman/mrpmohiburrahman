@@ -162,6 +162,8 @@ mrpmohiburrahman         2 mins              ███████████�
 4. 🎉 Merged PR [#2](https://github.com/mrpmohiburrahman/awesome-react-native-ui/pull/2) in [mrpmohiburrahman/awesome-react-native-ui](https://github.com/mrpmohiburrahman/awesome-react-native-ui)
 5. 🗣 Commented on [#56](https://github.com/atomiks/moonlight-vscode-theme/issues/56#issuecomment-2300238099) in [atomiks/moonlight-vscode-theme](https://github.com/atomiks/moonlight-vscode-theme)
 <!--END_SECTION:activity-->
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrpmohiburrahman&theme=nord&bg_color=20232a&hide_border=true" width="100%"/>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
