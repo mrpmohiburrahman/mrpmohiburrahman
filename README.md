@@ -15,21 +15,6 @@
 </p>
 
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mrpmohiburrahman&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 🗂️ Highlight Projects
-
-<a href="https://github.com/Zhenye-Na/DA-RNN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpmohiburrahman&repo=awesome-react-native-ui&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="awesome-react-native-ui" />
-</a>
-
-<a href="https://github.com/Zhenye-Na/crnn-pytorch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpmohiburrahman&repo=react-native-squish-button&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="react-native-squish-button" />
-</a>
-
-
 <h3>Open source projects</h3>
 
 ```
@@ -95,6 +80,36 @@
 <hr>
 <p align="center">
   <i>Take a look at my repositories and let's get in touch!</i>
+
+
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#241](https://github.com/wesbos/cobalt2-vscode/issues/241#issuecomment-2307884170) in [wesbos/cobalt2-vscode](https://github.com/wesbos/cobalt2-vscode)
+2. 🗣 Commented on [#241](https://github.com/wesbos/cobalt2-vscode/issues/241#issuecomment-2305929402) in [wesbos/cobalt2-vscode](https://github.com/wesbos/cobalt2-vscode)
+3. 🗣 Commented on [#2](https://github.com/mrpmohiburrahman/awesome-react-native-ui/pull/2#issuecomment-2304774557) in [mrpmohiburrahman/awesome-react-native-ui](https://github.com/mrpmohiburrahman/awesome-react-native-ui)
+4. 🎉 Merged PR [#2](https://github.com/mrpmohiburrahman/awesome-react-native-ui/pull/2) in [mrpmohiburrahman/awesome-react-native-ui](https://github.com/mrpmohiburrahman/awesome-react-native-ui)
+5. 🗣 Commented on [#56](https://github.com/atomiks/moonlight-vscode-theme/issues/56#issuecomment-2300238099) in [atomiks/moonlight-vscode-theme](https://github.com/atomiks/moonlight-vscode-theme)
+<!--END_SECTION:activity-->
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrpmohiburrahman&theme=nord&bg_color=20232a&hide_border=true" width="100%"/>
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mrpmohiburrahman&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/Zhenye-Na/DA-RNN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpmohiburrahman&repo=awesome-react-native-ui&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="awesome-react-native-ui" />
+</a>
+
+<a href="https://github.com/Zhenye-Na/crnn-pytorch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpmohiburrahman&repo=react-native-squish-button&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="react-native-squish-button" />
+</a>
+
+
 
 <p align="center">
 <a href= "https://github.com/mrpmohiburrahman/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
@@ -163,17 +178,7 @@ Lua                      3 repos             █░░░░░░░░░░�
  Last Updated on 24/08/2024 15:24:21 UTC
 <!--END_SECTION:waka-->
 
-### :zap: Recent Activity
 
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#241](https://github.com/wesbos/cobalt2-vscode/issues/241#issuecomment-2307884170) in [wesbos/cobalt2-vscode](https://github.com/wesbos/cobalt2-vscode)
-2. 🗣 Commented on [#241](https://github.com/wesbos/cobalt2-vscode/issues/241#issuecomment-2305929402) in [wesbos/cobalt2-vscode](https://github.com/wesbos/cobalt2-vscode)
-3. 🗣 Commented on [#2](https://github.com/mrpmohiburrahman/awesome-react-native-ui/pull/2#issuecomment-2304774557) in [mrpmohiburrahman/awesome-react-native-ui](https://github.com/mrpmohiburrahman/awesome-react-native-ui)
-4. 🎉 Merged PR [#2](https://github.com/mrpmohiburrahman/awesome-react-native-ui/pull/2) in [mrpmohiburrahman/awesome-react-native-ui](https://github.com/mrpmohiburrahman/awesome-react-native-ui)
-5. 🗣 Commented on [#56](https://github.com/atomiks/moonlight-vscode-theme/issues/56#issuecomment-2300238099) in [atomiks/moonlight-vscode-theme](https://github.com/atomiks/moonlight-vscode-theme)
-<!--END_SECTION:activity-->
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrpmohiburrahman&theme=nord&bg_color=20232a&hide_border=true" width="100%"/>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
