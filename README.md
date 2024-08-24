@@ -6,6 +6,7 @@
 
 ### In the meantime, take a look at my <a href="https://mrpmohiburrahman.notion.site/MD-MOHIBUR-RAHMAN-04c0576a58c14090a5fa2d9d617b9ef4" target="_blank" rel="noopener noreferrer">resume</a>.
 
+[![@mrp's Holopin board](https://holopin.io/api/user/board?user=mrp)](https://holopin.io/@mrp)
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
@@ -177,7 +178,7 @@ Lua                      3 repos             █░░░░░░░░░░�
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
 
-[![@mrp's Holopin board](https://holopin.io/api/user/board?user=mrp)](https://holopin.io/@mrp)
+
 <!-- <h3>My latest posts</h3>
 <ul>
   <li><a href="https://medium.com/better-programming/create-your-first-ethereum-smart-contract-with-remix-ide-667e46e81901"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Create Your First Ethereum Smart Contract With Remix IDE</b></a><br/><i>Build a Blockchain-powered chat from your browser!.</i></li>
