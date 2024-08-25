@@ -61,14 +61,14 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mrpmohiburrahman/react-native-cone-slider?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/mrpmohiburrahman/notionkeys-for-markdown"><b>react-native-cone-slider</b></a></td>
+      <td><a href="https://github.com/mrpmohiburrahman/notionkeys-for-markdown"><b>notionkeys-for-markdown</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/mrpmohiburrahman/notionkeys-for-markdown?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/mrpmohiburrahman/notionkeys-for-markdown?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/mrpmohiburrahman/notionkeys-for-markdown?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mrpmohiburrahman/notionkeys-for-markdown?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/mrpmohiburrahman/similar-react-native-libraries"><b>react-native-cone-slider</b></a></td>
+      <td><a href="https://github.com/mrpmohiburrahman/similar-react-native-libraries"><b>similar-react-native-libraries</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/mrpmohiburrahman/similar-react-native-libraries?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/mrpmohiburrahman/similar-react-native-libraries?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/mrpmohiburrahman/similar-react-native-libraries?style=flat-square&labelColor=343b41"/></td>
