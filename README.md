@@ -183,11 +183,30 @@ Lua                      3 repos             █░░░░░░░░░░�
  Last Updated on 25/08/2024 00:18:57 UTC
 <!--END_SECTION:waka-->
 
-
+<!--
+<br />
+<a href="https://www.google.com/search?q=Vinit+Shahdeo">
+  <table align="left">
+      <tr>
+          <td>
+            😊&nbsp;&nbsp;Learn more about me!
+          </td>
+      </tr>
+  </table>
+</a>
+<a href="https://vinitshahdeo.dev">
+  <table align="right">
+      <tr>
+          <td>
+            🌐 &nbsp;&nbsp;Explore my blog!
+          </td>
+      </tr>
+  </table>
+</a>
+-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
-
 
 <!-- <h3>My latest posts</h3>
 <ul>
