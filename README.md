@@ -86,11 +86,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#241](https://github.com/wesbos/cobalt2-vscode/issues/241#issuecomment-2310253080) in [wesbos/cobalt2-vscode](https://github.com/wesbos/cobalt2-vscode)
-2. 🗣 Commented on [#241](https://github.com/wesbos/cobalt2-vscode/issues/241#issuecomment-2307884170) in [wesbos/cobalt2-vscode](https://github.com/wesbos/cobalt2-vscode)
-3. 🗣 Commented on [#241](https://github.com/wesbos/cobalt2-vscode/issues/241#issuecomment-2305929402) in [wesbos/cobalt2-vscode](https://github.com/wesbos/cobalt2-vscode)
-4. 🗣 Commented on [#2](https://github.com/mrpmohiburrahman/awesome-react-native-ui/pull/2#issuecomment-2304774557) in [mrpmohiburrahman/awesome-react-native-ui](https://github.com/mrpmohiburrahman/awesome-react-native-ui)
-5. 🎉 Merged PR [#2](https://github.com/mrpmohiburrahman/awesome-react-native-ui/pull/2) in [mrpmohiburrahman/awesome-react-native-ui](https://github.com/mrpmohiburrahman/awesome-react-native-ui)
+1. 🗣 Commented on [#3](https://github.com/Everblush/vscode/issues/3#issuecomment-2314667805) in [Everblush/vscode](https://github.com/Everblush/vscode)
+2. 🗣 Commented on [#241](https://github.com/wesbos/cobalt2-vscode/issues/241#issuecomment-2310253080) in [wesbos/cobalt2-vscode](https://github.com/wesbos/cobalt2-vscode)
+3. 🗣 Commented on [#241](https://github.com/wesbos/cobalt2-vscode/issues/241#issuecomment-2307884170) in [wesbos/cobalt2-vscode](https://github.com/wesbos/cobalt2-vscode)
+4. 🗣 Commented on [#241](https://github.com/wesbos/cobalt2-vscode/issues/241#issuecomment-2305929402) in [wesbos/cobalt2-vscode](https://github.com/wesbos/cobalt2-vscode)
+5. 🗣 Commented on [#2](https://github.com/mrpmohiburrahman/awesome-react-native-ui/pull/2#issuecomment-2304774557) in [mrpmohiburrahman/awesome-react-native-ui](https://github.com/mrpmohiburrahman/awesome-react-native-ui)
 <!--END_SECTION:activity-->
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrpmohiburrahman&theme=nord&bg_color=20232a&hide_border=true" width="100%"/>
