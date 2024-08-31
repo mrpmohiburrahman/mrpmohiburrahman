@@ -15,7 +15,7 @@
 </p>
 
 
-<h3>Open source projects</h3>
+<h3>My open source projects</h3>
 
 ```
   ____                  ____                      
@@ -99,7 +99,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mrpmohiburrahman&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🗂️ Highlight Projects
+<!-- ## 🗂️ Highlight Projects
 
 <a href="https://github.com/Zhenye-Na/DA-RNN">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpmohiburrahman&repo=awesome-react-native-ui&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="awesome-react-native-ui" />
@@ -107,7 +107,7 @@
 
 <a href="https://github.com/Zhenye-Na/crnn-pytorch">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpmohiburrahman&repo=react-native-squish-button&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="react-native-squish-button" />
-</a>
+</a> -->
 
 
 
