@@ -2,6 +2,7 @@
 
 <!-- ## Latest Merged Pull Requests -->
 <!--START_SECTION:merged-prs-->
+- [Add cobalt2 theme](https://github.com/zed-industries/extensions/pull/1275)
 <!--END_SECTION:merged-prs-->
 
 ### In the meantime, take a look at my <a href="https://mrpmohiburrahman.notion.site/MD-MOHIBUR-RAHMAN-04c0576a58c14090a5fa2d9d617b9ef4" target="_blank" rel="noopener noreferrer">resume</a>.
