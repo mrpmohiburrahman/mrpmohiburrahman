@@ -27,6 +27,9 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: npx tsx index.ts
 
+      - name: Pull the latest changes
+        run: git pull origin main
+
       - name: Commit changes
         run: |
           git config --global user.name 'github-actions-merged-prs[bot]'
