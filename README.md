@@ -1,8 +1,5 @@
-### This profile readme is undergoing maintenance.
 
-
-
-### In the meantime, take a look at my <a href="https://mrpmohiburrahman.notion.site/MD-MOHIBUR-RAHMAN-04c0576a58c14090a5fa2d9d617b9ef4" target="_blank" rel="noopener noreferrer">resume</a>.
+### My <a href="https://mrpmohiburrahman.notion.site/MD-MOHIBUR-RAHMAN-04c0576a58c14090a5fa2d9d617b9ef4" target="_blank" rel="noopener noreferrer">Resume</a>.
 
 [![@mrp's Holopin board](https://holopin.io/api/user/board?user=mrp)](https://holopin.io/@mrp)
 
@@ -106,7 +103,7 @@
 
 
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrpmohiburrahman&theme=nord&bg_color=20232a&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrpmohiburrahman&theme=nord&bg_color=20232a&hide_border=true" width="100%"/>
 
 ## 🏆 GitHub Trophies
 
@@ -124,20 +121,22 @@
 
 
 
-<p align="center">
+<!-- <p align="center">
 <a href= "https://github.com/mrpmohiburrahman/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
 <a href= "https://www.linkedin.com/in/mrpmohiburrahman/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
 <a href= "https://x.com/mrp_mohibur"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
-<!-- <a href= "https://halfrost.com"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a> -->
-</p>
-<p  align="center">
+</p> -->
+<p>
 <!-- https://visitor-badge.laobi.icu/ -->
 <img src="https://visitor-badge.laobi.icu/badge?page_id=mrpmohiburrahman.mrpmohiburrahman&left_text=Profile%20Views%20" alt="visitor badge"/>       
 </p>
 
 </p>
 
-📊 **Weekly development breakdown**
+<details>
+<summary>📊 **Weekly development breakdown**</summary>
+
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%201%20min-blue)
@@ -196,6 +195,8 @@ Lua                      3 repos             █░░░░░░░░░░�
 
  Last Updated on 31/08/2024 00:18:10 UTC
 <!--END_SECTION:waka-->
+</details>
+
 
 <!--
 <br />
