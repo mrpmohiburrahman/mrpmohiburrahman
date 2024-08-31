@@ -96,7 +96,6 @@
 1. 🎉 Merged PR: [Add cobalt2 theme #1275](https://github.com/zed-industries/extensions/pull/1275) in **[zed-industries/extensions](https://github.com/zed-industries/extensions)** ⭐766 (merged on 8/22/2024)
 1. 🎉 Merged PR: [Update react-native-libraries.json #1036](https://github.com/react-native-community/directory/pull/1036) in **[react-native-community/directory](https://github.com/react-native-community/directory)** ⭐973 (merged on 8/24/2023)
 1. 🎉 Merged PR: [adding react-native-cone-slider #1029](https://github.com/react-native-community/directory/pull/1029) in **[react-native-community/directory](https://github.com/react-native-community/directory)** ⭐973 (merged on 8/19/2023)
-1. 🎉 Merged PR: [week_01 sumissions #1](https://github.com/mrpmohiburrahman/tjip-leetcode-repo/pull/1) in **[mrpmohiburrahman/tjip-leetcode-repo](https://github.com/mrpmohiburrahman/tjip-leetcode-repo)** ⭐0 (merged on 12/14/2022)
 1. 🎉 Merged PR: [Mrp/update readme #12](https://github.com/manav-studio/react-native-before-after/pull/12) in **[manav-studio/react-native-before-after](https://github.com/manav-studio/react-native-before-after)** ⭐1 (merged on 10/6/2022)
 1. 🎉 Merged PR: [add slider support #10](https://github.com/manav-studio/react-native-before-after/pull/10) in **[manav-studio/react-native-before-after](https://github.com/manav-studio/react-native-before-after)** ⭐1 (merged on 10/4/2022)
 1. 🎉 Merged PR: [detect faces if any in viewport #8](https://github.com/manav-studio/react-native-before-after/pull/8) in **[manav-studio/react-native-before-after](https://github.com/manav-studio/react-native-before-after)** ⭐1 (merged on 10/4/2022)
@@ -104,7 +103,6 @@
 1. 🎉 Merged PR: [add example repo with example app #6](https://github.com/manav-studio/react-native-before-after/pull/6) in **[manav-studio/react-native-before-after](https://github.com/manav-studio/react-native-before-after)** ⭐1 (merged on 10/3/2022)
 1. 🎉 Merged PR: [Mrp/legal #2](https://github.com/manav-studio/react-native-before-after/pull/2) in **[manav-studio/react-native-before-after](https://github.com/manav-studio/react-native-before-after)** ⭐1 (merged on 10/3/2022)
 1. 🎉 Merged PR: [Nullish coalescing operator '??' #103](https://github.com/javascript-tutorial/bn.javascript.info/pull/103) in **[javascript-tutorial/bn.javascript.info](https://github.com/javascript-tutorial/bn.javascript.info)** ⭐118 (merged on 6/21/2021)
-1. 🎉 Merged PR: [Add MRPMOHIBURRAHMAN to Contributors list #32679](https://github.com/firstcontributions/first-contributions/pull/32679) in **[firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)** ⭐44274 (merged on 10/3/2020)
 <!--END_SECTION:merged-prs-->
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrpmohiburrahman&theme=nord&bg_color=20232a&hide_border=true" width="100%"/>
