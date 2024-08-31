@@ -1,7 +1,7 @@
 name: update-gh-activity
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "*/30 * * * *" # Runs every 30 minutes
   workflow_dispatch:
 jobs:
   build:
