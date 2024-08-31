@@ -1,0 +1,38 @@
+name: Update README with Merged PRs
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"  # Runs every day at 12 AM UTC
+
+jobs:
+  update-readme:
+    name: Update README with Merged PRs
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js environment
+        uses: actions/setup-node@v3
+        with:
+          node-version: 'lts/*' # Automatically uses the latest LTS version of Node.js
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run script to update README
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: npx tsx index.ts
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions-merged-prs[bot]'
+          git config --global user.email 'github-actions-merged-prs[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "Updated README with latest merged PR info" || echo "No changes to commit"
+          git push
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
