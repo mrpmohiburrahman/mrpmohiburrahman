@@ -1,9 +1,6 @@
 ### This profile readme is undergoing maintenance.
 
-<!-- ## Latest Merged Pull Requests -->
-<!--START_SECTION:merged-prs-->
-- [Add cobalt2 theme](https://github.com/zed-industries/extensions/pull/1275)
-<!--END_SECTION:merged-prs-->
+
 
 ### In the meantime, take a look at my <a href="https://mrpmohiburrahman.notion.site/MD-MOHIBUR-RAHMAN-04c0576a58c14090a5fa2d9d617b9ef4" target="_blank" rel="noopener noreferrer">resume</a>.
 
@@ -93,6 +90,22 @@
 4. 🗣 Commented on [#241](https://github.com/wesbos/cobalt2-vscode/issues/241#issuecomment-2305929402) in [wesbos/cobalt2-vscode](https://github.com/wesbos/cobalt2-vscode)
 5. 🗣 Commented on [#2](https://github.com/mrpmohiburrahman/awesome-react-native-ui/pull/2#issuecomment-2304774557) in [mrpmohiburrahman/awesome-react-native-ui](https://github.com/mrpmohiburrahman/awesome-react-native-ui)
 <!--END_SECTION:activity-->
+
+<!-- ## Latest Merged Pull Requests -->
+<!--START_SECTION:merged-prs-->
+- **extensions**: [#1275](https://github.com/zed-industries/extensions/pull/1275) Add cobalt2 theme (merged on 8/22/2024)
+- **directory**: [#1036](https://github.com/react-native-community/directory/pull/1036) Update react-native-libraries.json (merged on 8/24/2023)
+- **directory**: [#1029](https://github.com/react-native-community/directory/pull/1029) adding react-native-cone-slider (merged on 8/19/2023)
+- **tjip-leetcode-repo**: [#1](https://github.com/mrpmohiburrahman/tjip-leetcode-repo/pull/1) week_01 sumissions (merged on 12/14/2022)
+- **react-native-before-after**: [#12](https://github.com/manav-studio/react-native-before-after/pull/12) Mrp/update readme (merged on 10/6/2022)
+- **react-native-before-after**: [#10](https://github.com/manav-studio/react-native-before-after/pull/10) add slider support (merged on 10/4/2022)
+- **react-native-before-after**: [#8](https://github.com/manav-studio/react-native-before-after/pull/8) detect faces if any in viewport (merged on 10/4/2022)
+- **react-native-before-after**: [#7](https://github.com/manav-studio/react-native-before-after/pull/7) Mrp/pinch pan (merged on 10/4/2022)
+- **react-native-before-after**: [#6](https://github.com/manav-studio/react-native-before-after/pull/6) add example repo with example app (merged on 10/3/2022)
+- **react-native-before-after**: [#2](https://github.com/manav-studio/react-native-before-after/pull/2) Mrp/legal (merged on 10/3/2022)
+- **bn.javascript.info**: [#103](https://github.com/javascript-tutorial/bn.javascript.info/pull/103) Nullish coalescing operator '??' (merged on 6/21/2021)
+- **first-contributions**: [#32679](https://github.com/firstcontributions/first-contributions/pull/32679) Add MRPMOHIBURRAHMAN to Contributors list (merged on 10/3/2020)
+<!--END_SECTION:merged-prs-->
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrpmohiburrahman&theme=nord&bg_color=20232a&hide_border=true" width="100%"/>
 
