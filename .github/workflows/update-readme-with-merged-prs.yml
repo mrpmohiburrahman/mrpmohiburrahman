@@ -28,12 +28,16 @@ jobs:
         run: npx tsx index.ts
 
       - name: Stash any changes
-        run: git stash
+        id: stash
+        run: |
+          git stash
+          echo "stash_result=$(git stash list)" >> $GITHUB_ENV
 
       - name: Pull the latest changes
         run: git pull origin main
 
-      - name: Apply stashed changes
+      - name: Apply stashed changes if any
+        if: env.stash_result != ''
         run: git stash pop
 
       - name: Commit changes
