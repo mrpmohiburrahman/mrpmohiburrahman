@@ -27,8 +27,14 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: npx tsx index.ts
 
+      - name: Stash any changes
+        run: git stash
+
       - name: Pull the latest changes
         run: git pull origin main
+
+      - name: Apply stashed changes
+        run: git stash pop
 
       - name: Commit changes
         run: |
