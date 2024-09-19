@@ -94,8 +94,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/Everblush/vscode/issues/3#issuecomment-2314667805) in [Everblush/vscode](https://github.com/Everblush/vscode)
-2. 🗣 Commented on [#241](https://github.com/wesbos/cobalt2-vscode/issues/241#issuecomment-2310253080) in [wesbos/cobalt2-vscode](https://github.com/wesbos/cobalt2-vscode)
+1. 🗣 Commented on [#298](https://github.com/FormidableLabs/victory-native-xl/issues/298#issuecomment-2360010685) in [FormidableLabs/victory-native-xl](https://github.com/FormidableLabs/victory-native-xl)
+2. 🗣 Commented on [#359](https://github.com/FormidableLabs/victory-native-xl/issues/359#issuecomment-2360005846) in [FormidableLabs/victory-native-xl](https://github.com/FormidableLabs/victory-native-xl)
 3. 🗣 Commented on [#241](https://github.com/wesbos/cobalt2-vscode/issues/241#issuecomment-2307884170) in [wesbos/cobalt2-vscode](https://github.com/wesbos/cobalt2-vscode)
 4. 🗣 Commented on [#241](https://github.com/wesbos/cobalt2-vscode/issues/241#issuecomment-2305929402) in [wesbos/cobalt2-vscode](https://github.com/wesbos/cobalt2-vscode)
 5. 🗣 Commented on [#2](https://github.com/mrpmohiburrahman/awesome-react-native-ui/pull/2#issuecomment-2304774557) in [mrpmohiburrahman/awesome-react-native-ui](https://github.com/mrpmohiburrahman/awesome-react-native-ui)
