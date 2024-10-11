@@ -94,7 +94,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#298](https://github.com/FormidableLabs/victory-native-xl/issues/298#issuecomment-2360010685) in [FormidableLabs/victory-native-xl](https://github.com/FormidableLabs/victory-native-xl)
+1. 🗣 Commented on [#13](https://github.com/okwasniewski/react-native-bottom-tabs/issues/13#issuecomment-2406521679) in [okwasniewski/react-native-bottom-tabs](https://github.com/okwasniewski/react-native-bottom-tabs)
 2. 🗣 Commented on [#359](https://github.com/FormidableLabs/victory-native-xl/issues/359#issuecomment-2360005846) in [FormidableLabs/victory-native-xl](https://github.com/FormidableLabs/victory-native-xl)
 3. 🗣 Commented on [#241](https://github.com/wesbos/cobalt2-vscode/issues/241#issuecomment-2307884170) in [wesbos/cobalt2-vscode](https://github.com/wesbos/cobalt2-vscode)
 4. 🗣 Commented on [#241](https://github.com/wesbos/cobalt2-vscode/issues/241#issuecomment-2305929402) in [wesbos/cobalt2-vscode](https://github.com/wesbos/cobalt2-vscode)
