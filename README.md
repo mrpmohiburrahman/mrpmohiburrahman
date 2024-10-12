@@ -94,9 +94,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/okwasniewski/react-native-bottom-tabs/issues/13#issuecomment-2408294692) in [okwasniewski/react-native-bottom-tabs](https://github.com/okwasniewski/react-native-bottom-tabs)
-2. 🗣 Commented on [#13](https://github.com/okwasniewski/react-native-bottom-tabs/issues/13#issuecomment-2406521679) in [okwasniewski/react-native-bottom-tabs](https://github.com/okwasniewski/react-native-bottom-tabs)
-3. 🗣 Commented on [#241](https://github.com/wesbos/cobalt2-vscode/issues/241#issuecomment-2307884170) in [wesbos/cobalt2-vscode](https://github.com/wesbos/cobalt2-vscode)
+1. 🗣 Commented on [#138](https://github.com/gunnartorfis/sonner-native/issues/138#issuecomment-2408333480) in [gunnartorfis/sonner-native](https://github.com/gunnartorfis/sonner-native)
+2. 🗣 Commented on [#13](https://github.com/okwasniewski/react-native-bottom-tabs/issues/13#issuecomment-2408294692) in [okwasniewski/react-native-bottom-tabs](https://github.com/okwasniewski/react-native-bottom-tabs)
+3. 🗣 Commented on [#13](https://github.com/okwasniewski/react-native-bottom-tabs/issues/13#issuecomment-2406521679) in [okwasniewski/react-native-bottom-tabs](https://github.com/okwasniewski/react-native-bottom-tabs)
 4. 🗣 Commented on [#241](https://github.com/wesbos/cobalt2-vscode/issues/241#issuecomment-2305929402) in [wesbos/cobalt2-vscode](https://github.com/wesbos/cobalt2-vscode)
 5. 🗣 Commented on [#2](https://github.com/mrpmohiburrahman/awesome-react-native-ui/pull/2#issuecomment-2304774557) in [mrpmohiburrahman/awesome-react-native-ui](https://github.com/mrpmohiburrahman/awesome-react-native-ui)
 <!--END_SECTION:activity-->
