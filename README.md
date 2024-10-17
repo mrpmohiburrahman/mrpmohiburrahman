@@ -79,10 +79,10 @@
 ### :zap: My Latest Merged Pull Requests
 <!-- ## Latest Merged Pull Requests -->
 <!--START_SECTION:merged-prs-->
-1. 🎉 Merged PR: [fix: trim routes for android - no more then 6 tabs #38](https://github.com/okwasniewski/react-native-bottom-tabs/pull/38) in **[okwasniewski/react-native-bottom-tabs](https://github.com/okwasniewski/react-native-bottom-tabs)** ⭐301
-1. 🎉 Merged PR: [Add cobalt2 theme #1275](https://github.com/zed-industries/extensions/pull/1275) in **[zed-industries/extensions](https://github.com/zed-industries/extensions)** ⭐865
-1. 🎉 Merged PR: [Update react-native-libraries.json #1036](https://github.com/react-native-community/directory/pull/1036) in **[react-native-community/directory](https://github.com/react-native-community/directory)** ⭐1008
-1. 🎉 Merged PR: [adding react-native-cone-slider #1029](https://github.com/react-native-community/directory/pull/1029) in **[react-native-community/directory](https://github.com/react-native-community/directory)** ⭐1008
+1. 🎉 Merged PR: [fix: trim routes for android - no more then 6 tabs #38](https://github.com/okwasniewski/react-native-bottom-tabs/pull/38) in **[okwasniewski/react-native-bottom-tabs](https://github.com/okwasniewski/react-native-bottom-tabs)** ⭐302
+1. 🎉 Merged PR: [Add cobalt2 theme #1275](https://github.com/zed-industries/extensions/pull/1275) in **[zed-industries/extensions](https://github.com/zed-industries/extensions)** ⭐866
+1. 🎉 Merged PR: [Update react-native-libraries.json #1036](https://github.com/react-native-community/directory/pull/1036) in **[react-native-community/directory](https://github.com/react-native-community/directory)** ⭐1009
+1. 🎉 Merged PR: [adding react-native-cone-slider #1029](https://github.com/react-native-community/directory/pull/1029) in **[react-native-community/directory](https://github.com/react-native-community/directory)** ⭐1009
 1. 🎉 Merged PR: [Mrp/update readme #12](https://github.com/manav-studio/react-native-before-after/pull/12) in **[manav-studio/react-native-before-after](https://github.com/manav-studio/react-native-before-after)** ⭐1
 1. 🎉 Merged PR: [add slider support #10](https://github.com/manav-studio/react-native-before-after/pull/10) in **[manav-studio/react-native-before-after](https://github.com/manav-studio/react-native-before-after)** ⭐1
 1. 🎉 Merged PR: [detect faces if any in viewport #8](https://github.com/manav-studio/react-native-before-after/pull/8) in **[manav-studio/react-native-before-after](https://github.com/manav-studio/react-native-before-after)** ⭐1
