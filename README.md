@@ -96,10 +96,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#370](https://github.com/obytes/react-native-template-obytes/issues/370) in [obytes/react-native-template-obytes](https://github.com/obytes/react-native-template-obytes)
-2. 🗣 Commented on [#38](https://github.com/okwasniewski/react-native-bottom-tabs/pull/38#issuecomment-2410249688) in [okwasniewski/react-native-bottom-tabs](https://github.com/okwasniewski/react-native-bottom-tabs)
-3. 🗣 Commented on [#13](https://github.com/okwasniewski/react-native-bottom-tabs/issues/13#issuecomment-2408597487) in [okwasniewski/react-native-bottom-tabs](https://github.com/okwasniewski/react-native-bottom-tabs)
-4. 💪 Opened PR [#38](https://github.com/okwasniewski/react-native-bottom-tabs/pull/38) in [okwasniewski/react-native-bottom-tabs](https://github.com/okwasniewski/react-native-bottom-tabs)
+1. ❗ Opened issue [#372](https://github.com/obytes/react-native-template-obytes/issues/372) in [obytes/react-native-template-obytes](https://github.com/obytes/react-native-template-obytes)
+2. 💪 Opened PR [#371](https://github.com/obytes/react-native-template-obytes/pull/371) in [obytes/react-native-template-obytes](https://github.com/obytes/react-native-template-obytes)
+3. ❗ Opened issue [#370](https://github.com/obytes/react-native-template-obytes/issues/370) in [obytes/react-native-template-obytes](https://github.com/obytes/react-native-template-obytes)
+4. 🗣 Commented on [#38](https://github.com/okwasniewski/react-native-bottom-tabs/pull/38#issuecomment-2410249688) in [okwasniewski/react-native-bottom-tabs](https://github.com/okwasniewski/react-native-bottom-tabs)
 5. 🗣 Commented on [#138](https://github.com/gunnartorfis/sonner-native/issues/138#issuecomment-2408333480) in [gunnartorfis/sonner-native](https://github.com/gunnartorfis/sonner-native)
 <!--END_SECTION:activity-->
 
