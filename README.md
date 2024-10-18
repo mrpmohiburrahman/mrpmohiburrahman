@@ -96,11 +96,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2410](https://github.com/validatorjs/validator.js/issues/2410#issuecomment-2421309814) in [validatorjs/validator.js](https://github.com/validatorjs/validator.js)
-2. 💪 Opened PR [#2475](https://github.com/validatorjs/validator.js/pull/2475) in [validatorjs/validator.js](https://github.com/validatorjs/validator.js)
-3. ❗ Opened issue [#372](https://github.com/obytes/react-native-template-obytes/issues/372) in [obytes/react-native-template-obytes](https://github.com/obytes/react-native-template-obytes)
-4. 💪 Opened PR [#371](https://github.com/obytes/react-native-template-obytes/pull/371) in [obytes/react-native-template-obytes](https://github.com/obytes/react-native-template-obytes)
-5. ❗ Opened issue [#370](https://github.com/obytes/react-native-template-obytes/issues/370) in [obytes/react-native-template-obytes](https://github.com/obytes/react-native-template-obytes)
+1. 🗣 Commented on [#80](https://github.com/NirmalScaria/le-git-graph/issues/80#issuecomment-2421433508) in [NirmalScaria/le-git-graph](https://github.com/NirmalScaria/le-git-graph)
+2. 🗣 Commented on [#2410](https://github.com/validatorjs/validator.js/issues/2410#issuecomment-2421309814) in [validatorjs/validator.js](https://github.com/validatorjs/validator.js)
+3. 💪 Opened PR [#2475](https://github.com/validatorjs/validator.js/pull/2475) in [validatorjs/validator.js](https://github.com/validatorjs/validator.js)
+4. ❗ Opened issue [#372](https://github.com/obytes/react-native-template-obytes/issues/372) in [obytes/react-native-template-obytes](https://github.com/obytes/react-native-template-obytes)
+5. 💪 Opened PR [#371](https://github.com/obytes/react-native-template-obytes/pull/371) in [obytes/react-native-template-obytes](https://github.com/obytes/react-native-template-obytes)
 <!--END_SECTION:activity-->
 
 
