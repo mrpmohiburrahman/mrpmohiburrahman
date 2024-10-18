@@ -96,11 +96,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#372](https://github.com/obytes/react-native-template-obytes/issues/372) in [obytes/react-native-template-obytes](https://github.com/obytes/react-native-template-obytes)
-2. 💪 Opened PR [#371](https://github.com/obytes/react-native-template-obytes/pull/371) in [obytes/react-native-template-obytes](https://github.com/obytes/react-native-template-obytes)
-3. ❗ Opened issue [#370](https://github.com/obytes/react-native-template-obytes/issues/370) in [obytes/react-native-template-obytes](https://github.com/obytes/react-native-template-obytes)
-4. 🗣 Commented on [#38](https://github.com/okwasniewski/react-native-bottom-tabs/pull/38#issuecomment-2410249688) in [okwasniewski/react-native-bottom-tabs](https://github.com/okwasniewski/react-native-bottom-tabs)
-5. 🗣 Commented on [#138](https://github.com/gunnartorfis/sonner-native/issues/138#issuecomment-2408333480) in [gunnartorfis/sonner-native](https://github.com/gunnartorfis/sonner-native)
+1. 🗣 Commented on [#2410](https://github.com/validatorjs/validator.js/issues/2410#issuecomment-2421309814) in [validatorjs/validator.js](https://github.com/validatorjs/validator.js)
+2. 💪 Opened PR [#2475](https://github.com/validatorjs/validator.js/pull/2475) in [validatorjs/validator.js](https://github.com/validatorjs/validator.js)
+3. ❗ Opened issue [#372](https://github.com/obytes/react-native-template-obytes/issues/372) in [obytes/react-native-template-obytes](https://github.com/obytes/react-native-template-obytes)
+4. 💪 Opened PR [#371](https://github.com/obytes/react-native-template-obytes/pull/371) in [obytes/react-native-template-obytes](https://github.com/obytes/react-native-template-obytes)
+5. ❗ Opened issue [#370](https://github.com/obytes/react-native-template-obytes/issues/370) in [obytes/react-native-template-obytes](https://github.com/obytes/react-native-template-obytes)
 <!--END_SECTION:activity-->
 
 
