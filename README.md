@@ -96,11 +96,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1673](https://github.com/react-native-device-info/react-native-device-info/pull/1673) in [react-native-device-info/react-native-device-info](https://github.com/react-native-device-info/react-native-device-info)
-2. 🗣 Commented on [#1671](https://github.com/react-native-device-info/react-native-device-info/issues/1671#issuecomment-2436806254) in [react-native-device-info/react-native-device-info](https://github.com/react-native-device-info/react-native-device-info)
-3. 🗣 Commented on [#151](https://github.com/gunnartorfis/sonner-native/issues/151#issuecomment-2436685271) in [gunnartorfis/sonner-native](https://github.com/gunnartorfis/sonner-native)
-4. 💪 Opened PR [#152](https://github.com/gunnartorfis/sonner-native/pull/152) in [gunnartorfis/sonner-native](https://github.com/gunnartorfis/sonner-native)
-5. 🗣 Commented on [#151](https://github.com/gunnartorfis/sonner-native/issues/151#issuecomment-2435518644) in [gunnartorfis/sonner-native](https://github.com/gunnartorfis/sonner-native)
+1. 🗣 Commented on [#1671](https://github.com/react-native-device-info/react-native-device-info/issues/1671#issuecomment-2437674855) in [react-native-device-info/react-native-device-info](https://github.com/react-native-device-info/react-native-device-info)
+2. 💪 Opened PR [#1673](https://github.com/react-native-device-info/react-native-device-info/pull/1673) in [react-native-device-info/react-native-device-info](https://github.com/react-native-device-info/react-native-device-info)
+3. 🗣 Commented on [#1671](https://github.com/react-native-device-info/react-native-device-info/issues/1671#issuecomment-2436806254) in [react-native-device-info/react-native-device-info](https://github.com/react-native-device-info/react-native-device-info)
+4. 🗣 Commented on [#151](https://github.com/gunnartorfis/sonner-native/issues/151#issuecomment-2436685271) in [gunnartorfis/sonner-native](https://github.com/gunnartorfis/sonner-native)
+5. 💪 Opened PR [#152](https://github.com/gunnartorfis/sonner-native/pull/152) in [gunnartorfis/sonner-native](https://github.com/gunnartorfis/sonner-native)
 <!--END_SECTION:activity-->
 
 
