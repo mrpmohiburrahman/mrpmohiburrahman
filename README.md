@@ -96,11 +96,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#151](https://github.com/gunnartorfis/sonner-native/issues/151#issuecomment-2436685271) in [gunnartorfis/sonner-native](https://github.com/gunnartorfis/sonner-native)
-2. 💪 Opened PR [#152](https://github.com/gunnartorfis/sonner-native/pull/152) in [gunnartorfis/sonner-native](https://github.com/gunnartorfis/sonner-native)
-3. 🗣 Commented on [#151](https://github.com/gunnartorfis/sonner-native/issues/151#issuecomment-2435518644) in [gunnartorfis/sonner-native](https://github.com/gunnartorfis/sonner-native)
-4. 🗣 Commented on [#151](https://github.com/gunnartorfis/sonner-native/issues/151#issuecomment-2435315692) in [gunnartorfis/sonner-native](https://github.com/gunnartorfis/sonner-native)
-5. 🗣 Commented on [#2410](https://github.com/validatorjs/validator.js/issues/2410#issuecomment-2421309814) in [validatorjs/validator.js](https://github.com/validatorjs/validator.js)
+1. 🗣 Commented on [#1671](https://github.com/react-native-device-info/react-native-device-info/issues/1671#issuecomment-2436806254) in [react-native-device-info/react-native-device-info](https://github.com/react-native-device-info/react-native-device-info)
+2. 🗣 Commented on [#151](https://github.com/gunnartorfis/sonner-native/issues/151#issuecomment-2436685271) in [gunnartorfis/sonner-native](https://github.com/gunnartorfis/sonner-native)
+3. 💪 Opened PR [#152](https://github.com/gunnartorfis/sonner-native/pull/152) in [gunnartorfis/sonner-native](https://github.com/gunnartorfis/sonner-native)
+4. 🗣 Commented on [#151](https://github.com/gunnartorfis/sonner-native/issues/151#issuecomment-2435518644) in [gunnartorfis/sonner-native](https://github.com/gunnartorfis/sonner-native)
+5. 🗣 Commented on [#151](https://github.com/gunnartorfis/sonner-native/issues/151#issuecomment-2435315692) in [gunnartorfis/sonner-native](https://github.com/gunnartorfis/sonner-native)
 <!--END_SECTION:activity-->
 
 
