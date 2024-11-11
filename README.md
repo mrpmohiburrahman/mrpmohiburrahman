@@ -97,10 +97,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#747](https://github.com/morenoh149/react-native-contacts/issues/747#issuecomment-2467116571) in [morenoh149/react-native-contacts](https://github.com/morenoh149/react-native-contacts)
-2. 🗣 Commented on [#747](https://github.com/morenoh149/react-native-contacts/issues/747#issuecomment-2466640212) in [morenoh149/react-native-contacts](https://github.com/morenoh149/react-native-contacts)
-3. 🗣 Commented on [#1673](https://github.com/react-native-device-info/react-native-device-info/pull/1673#issuecomment-2439168714) in [react-native-device-info/react-native-device-info](https://github.com/react-native-device-info/react-native-device-info)
-4. 🗣 Commented on [#1671](https://github.com/react-native-device-info/react-native-device-info/issues/1671#issuecomment-2437674855) in [react-native-device-info/react-native-device-info](https://github.com/react-native-device-info/react-native-device-info)
+1. 🗣 Commented on [#747](https://github.com/morenoh149/react-native-contacts/issues/747#issuecomment-2467146911) in [morenoh149/react-native-contacts](https://github.com/morenoh149/react-native-contacts)
+2. 💪 Opened PR [#763](https://github.com/morenoh149/react-native-contacts/pull/763) in [morenoh149/react-native-contacts](https://github.com/morenoh149/react-native-contacts)
+3. 🗣 Commented on [#747](https://github.com/morenoh149/react-native-contacts/issues/747#issuecomment-2467116571) in [morenoh149/react-native-contacts](https://github.com/morenoh149/react-native-contacts)
+4. 🗣 Commented on [#747](https://github.com/morenoh149/react-native-contacts/issues/747#issuecomment-2466640212) in [morenoh149/react-native-contacts](https://github.com/morenoh149/react-native-contacts)
 5. 💪 Opened PR [#1673](https://github.com/react-native-device-info/react-native-device-info/pull/1673) in [react-native-device-info/react-native-device-info](https://github.com/react-native-device-info/react-native-device-info)
 <!--END_SECTION:activity-->
 
