@@ -91,7 +91,7 @@
 1. 🎉 Merged PR: [Mrp/pinch pan #7](https://github.com/manav-studio/react-native-before-after/pull/7) in **[manav-studio/react-native-before-after](https://github.com/manav-studio/react-native-before-after)** ⭐1
 1. 🎉 Merged PR: [add example repo with example app #6](https://github.com/manav-studio/react-native-before-after/pull/6) in **[manav-studio/react-native-before-after](https://github.com/manav-studio/react-native-before-after)** ⭐1
 1. 🎉 Merged PR: [Mrp/legal #2](https://github.com/manav-studio/react-native-before-after/pull/2) in **[manav-studio/react-native-before-after](https://github.com/manav-studio/react-native-before-after)** ⭐1
-1. 🎉 Merged PR: [Nullish coalescing operator '??' #103](https://github.com/javascript-tutorial/bn.javascript.info/pull/103) in **[javascript-tutorial/bn.javascript.info](https://github.com/javascript-tutorial/bn.javascript.info)** ⭐119
+1. 🎉 Merged PR: [Nullish coalescing operator '??' #103](https://github.com/javascript-tutorial/bn.javascript.info/pull/103) in **[javascript-tutorial/bn.javascript.info](https://github.com/javascript-tutorial/bn.javascript.info)** ⭐118
 <!--END_SECTION:merged-prs-->
 
 ### :zap: Recent Activity
