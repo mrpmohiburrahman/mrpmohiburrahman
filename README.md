@@ -97,11 +97,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1677](https://github.com/callstack/react-native-testing-library/issues/1677#issuecomment-2469543178) in [callstack/react-native-testing-library](https://github.com/callstack/react-native-testing-library)
-2. 💪 Opened PR [#1704](https://github.com/callstack/react-native-testing-library/pull/1704) in [callstack/react-native-testing-library](https://github.com/callstack/react-native-testing-library)
-3. 🗣 Commented on [#1677](https://github.com/callstack/react-native-testing-library/issues/1677#issuecomment-2469482947) in [callstack/react-native-testing-library](https://github.com/callstack/react-native-testing-library)
-4. 🗣 Commented on [#32768](https://github.com/expo/expo/issues/32768#issuecomment-2468258378) in [expo/expo](https://github.com/expo/expo)
-5. 🗣 Commented on [#747](https://github.com/morenoh149/react-native-contacts/issues/747#issuecomment-2467146911) in [morenoh149/react-native-contacts](https://github.com/morenoh149/react-native-contacts)
+1. 🗣 Commented on [#1704](https://github.com/callstack/react-native-testing-library/pull/1704#issuecomment-2470032324) in [callstack/react-native-testing-library](https://github.com/callstack/react-native-testing-library)
+2. 🗣 Commented on [#1677](https://github.com/callstack/react-native-testing-library/issues/1677#issuecomment-2469543178) in [callstack/react-native-testing-library](https://github.com/callstack/react-native-testing-library)
+3. 💪 Opened PR [#1704](https://github.com/callstack/react-native-testing-library/pull/1704) in [callstack/react-native-testing-library](https://github.com/callstack/react-native-testing-library)
+4. 🗣 Commented on [#1677](https://github.com/callstack/react-native-testing-library/issues/1677#issuecomment-2469482947) in [callstack/react-native-testing-library](https://github.com/callstack/react-native-testing-library)
+5. 🗣 Commented on [#32768](https://github.com/expo/expo/issues/32768#issuecomment-2468258378) in [expo/expo](https://github.com/expo/expo)
 <!--END_SECTION:activity-->
 
 
