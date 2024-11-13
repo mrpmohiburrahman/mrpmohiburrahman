@@ -97,11 +97,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1704](https://github.com/callstack/react-native-testing-library/pull/1704#issuecomment-2470032324) in [callstack/react-native-testing-library](https://github.com/callstack/react-native-testing-library)
-2. 🗣 Commented on [#1677](https://github.com/callstack/react-native-testing-library/issues/1677#issuecomment-2469543178) in [callstack/react-native-testing-library](https://github.com/callstack/react-native-testing-library)
-3. 💪 Opened PR [#1704](https://github.com/callstack/react-native-testing-library/pull/1704) in [callstack/react-native-testing-library](https://github.com/callstack/react-native-testing-library)
-4. 🗣 Commented on [#1677](https://github.com/callstack/react-native-testing-library/issues/1677#issuecomment-2469482947) in [callstack/react-native-testing-library](https://github.com/callstack/react-native-testing-library)
-5. 🗣 Commented on [#32768](https://github.com/expo/expo/issues/32768#issuecomment-2468258378) in [expo/expo](https://github.com/expo/expo)
+1. 🗣 Commented on [#763](https://github.com/morenoh149/react-native-contacts/pull/763#issuecomment-2472060581) in [morenoh149/react-native-contacts](https://github.com/morenoh149/react-native-contacts)
+2. 🗣 Commented on [#1704](https://github.com/callstack/react-native-testing-library/pull/1704#issuecomment-2470032324) in [callstack/react-native-testing-library](https://github.com/callstack/react-native-testing-library)
+3. 🗣 Commented on [#1677](https://github.com/callstack/react-native-testing-library/issues/1677#issuecomment-2469543178) in [callstack/react-native-testing-library](https://github.com/callstack/react-native-testing-library)
+4. 💪 Opened PR [#1704](https://github.com/callstack/react-native-testing-library/pull/1704) in [callstack/react-native-testing-library](https://github.com/callstack/react-native-testing-library)
+5. 🗣 Commented on [#1677](https://github.com/callstack/react-native-testing-library/issues/1677#issuecomment-2469482947) in [callstack/react-native-testing-library](https://github.com/callstack/react-native-testing-library)
 <!--END_SECTION:activity-->
 
 
