@@ -79,7 +79,7 @@
 ### :zap: My Latest Merged Pull Requests
 <!-- ## Latest Merged Pull Requests -->
 <!--START_SECTION:merged-prs-->
-1. 🎉 Merged PR: [fix: RNDeviceInfo is adding AD_ID permission through play-services-iid #1673](https://github.com/react-native-device-info/react-native-device-info/pull/1673) in **[react-native-device-info/react-native-device-info](https://github.com/react-native-device-info/react-native-device-info)** ⭐6482
+1. 🎉 Merged PR: [fix: RNDeviceInfo is adding AD_ID permission through play-services-iid #1673](https://github.com/react-native-device-info/react-native-device-info/pull/1673) in **[react-native-device-info/react-native-device-info](https://github.com/react-native-device-info/react-native-device-info)** ⭐6483
 1. 🎉 Merged PR: [Fix:  ERR_PNPM_RECURSIVE_EXEC_FIRST_FAIL  Command "prebuild:developme…" and gradle plugin issue with java version #371](https://github.com/obytes/react-native-template-obytes/pull/371) in **[obytes/react-native-template-obytes](https://github.com/obytes/react-native-template-obytes)** ⭐2409
 1. 🎉 Merged PR: [fix: trim routes for android - no more then 6 tabs #38](https://github.com/okwasniewski/react-native-bottom-tabs/pull/38) in **[okwasniewski/react-native-bottom-tabs](https://github.com/okwasniewski/react-native-bottom-tabs)** ⭐594
 1. 🎉 Merged PR: [Add cobalt2 theme #1275](https://github.com/zed-industries/extensions/pull/1275) in **[zed-industries/extensions](https://github.com/zed-industries/extensions)** ⭐915
