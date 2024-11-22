@@ -79,7 +79,7 @@
 ### :zap: My Latest Merged Pull Requests
 <!-- ## Latest Merged Pull Requests -->
 <!--START_SECTION:merged-prs-->
-1. 🎉 Merged PR: [fix: custom jsx component breaks animation #152](https://github.com/gunnartorfis/sonner-native/pull/152) in **[gunnartorfis/sonner-native](https://github.com/gunnartorfis/sonner-native)** ⭐463
+1. 🎉 Merged PR: [fix: custom jsx component breaks animation #152](https://github.com/gunnartorfis/sonner-native/pull/152) in **[gunnartorfis/sonner-native](https://github.com/gunnartorfis/sonner-native)** ⭐464
 1. 🎉 Merged PR: [feat: add group functionality #763](https://github.com/morenoh149/react-native-contacts/pull/763) in **[morenoh149/react-native-contacts](https://github.com/morenoh149/react-native-contacts)** ⭐1646
 1. 🎉 Merged PR: [fix: RNDeviceInfo is adding AD_ID permission through play-services-iid #1673](https://github.com/react-native-device-info/react-native-device-info/pull/1673) in **[react-native-device-info/react-native-device-info](https://github.com/react-native-device-info/react-native-device-info)** ⭐6484
 1. 🎉 Merged PR: [Fix:  ERR_PNPM_RECURSIVE_EXEC_FIRST_FAIL  Command "prebuild:developme…" and gradle plugin issue with java version #371](https://github.com/obytes/react-native-template-obytes/pull/371) in **[obytes/react-native-template-obytes](https://github.com/obytes/react-native-template-obytes)** ⭐2445
