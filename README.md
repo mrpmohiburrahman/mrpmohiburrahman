@@ -79,7 +79,7 @@
 ### :zap: My Latest Merged Pull Requests
 <!-- ## Latest Merged Pull Requests -->
 <!--START_SECTION:merged-prs-->
-1. 🎉 Merged PR: [feat: add skip blur option #1704](https://github.com/callstack/react-native-testing-library/pull/1704) in **[callstack/react-native-testing-library](https://github.com/callstack/react-native-testing-library)** ⭐3103
+1. 🎉 Merged PR: [feat: add skip blur option #1704](https://github.com/callstack/react-native-testing-library/pull/1704) in **[callstack/react-native-testing-library](https://github.com/callstack/react-native-testing-library)** ⭐3104
 1. 🎉 Merged PR: [fix: custom jsx component breaks animation #152](https://github.com/gunnartorfis/sonner-native/pull/152) in **[gunnartorfis/sonner-native](https://github.com/gunnartorfis/sonner-native)** ⭐473
 1. 🎉 Merged PR: [feat: add group functionality #763](https://github.com/morenoh149/react-native-contacts/pull/763) in **[morenoh149/react-native-contacts](https://github.com/morenoh149/react-native-contacts)** ⭐1649
 1. 🎉 Merged PR: [fix: RNDeviceInfo is adding AD_ID permission through play-services-iid #1673](https://github.com/react-native-device-info/react-native-device-info/pull/1673) in **[react-native-device-info/react-native-device-info](https://github.com/react-native-device-info/react-native-device-info)** ⭐6491
