@@ -1,5 +1,5 @@
 
-### My <a href="https://mrpmohiburrahman.notion.site/MD-MOHIBUR-RAHMAN-04c0576a58c14090a5fa2d9d617b9ef4" target="_blank" rel="noopener noreferrer">Resume</a>.
+### My <a href="https://www.pixellog.io/" target="_blank" rel="noopener noreferrer">Resume</a>.
 
 [![@mrp's Holopin board](https://holopin.io/api/user/board?user=mrp)](https://holopin.io/@mrp)
 
