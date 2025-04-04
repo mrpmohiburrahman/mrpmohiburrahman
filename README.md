@@ -101,7 +101,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#152](https://github.com/gunnartorfis/sonner-native/pull/152#issuecomment-2483184028) in [gunnartorfis/sonner-native](https://github.com/gunnartorfis/sonner-native)
+1. 🗣 Commented on [#626](https://github.com/zed-industries/extensions/issues/626#issuecomment-2777236119) in [zed-industries/extensions](https://github.com/zed-industries/extensions)
 2. 🗣 Commented on [#152](https://github.com/gunnartorfis/sonner-native/pull/152#issuecomment-2483044589) in [gunnartorfis/sonner-native](https://github.com/gunnartorfis/sonner-native)
 3. 🗣 Commented on [#152](https://github.com/gunnartorfis/sonner-native/pull/152#issuecomment-2482969650) in [gunnartorfis/sonner-native](https://github.com/gunnartorfis/sonner-native)
 4. 🗣 Commented on [#763](https://github.com/morenoh149/react-native-contacts/pull/763#issuecomment-2478735871) in [morenoh149/react-native-contacts](https://github.com/morenoh149/react-native-contacts)
