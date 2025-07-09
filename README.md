@@ -79,7 +79,7 @@
 ### :zap: My Latest Merged Pull Requests
 <!-- ## Latest Merged Pull Requests -->
 <!--START_SECTION:merged-prs-->
-1. 🎉 Merged PR: [fix: RNDeviceInfo is adding AD_ID permission through play-services-iid #1673](https://github.com/react-native-device-info/react-native-device-info/pull/1673) in **[react-native-device-info/react-native-device-info](https://github.com/react-native-device-info/react-native-device-info)** ⭐6584
+1. 🎉 Merged PR: [fix: RNDeviceInfo is adding AD_ID permission through play-services-iid #1673](https://github.com/react-native-device-info/react-native-device-info/pull/1673) in **[react-native-device-info/react-native-device-info](https://github.com/react-native-device-info/react-native-device-info)** ⭐6585
 1. 🎉 Merged PR: [feat: Add tooltip for branch button in the Legend panel #85](https://github.com/NirmalScaria/le-git-graph/pull/85) in **[NirmalScaria/le-git-graph](https://github.com/NirmalScaria/le-git-graph)** ⭐4808
 1. 🎉 Merged PR: [feat: add skip blur option #1704](https://github.com/callstack/react-native-testing-library/pull/1704) in **[callstack/react-native-testing-library](https://github.com/callstack/react-native-testing-library)** ⭐3222
 1. 🎉 Merged PR: [fix: custom jsx component breaks animation #152](https://github.com/gunnartorfis/sonner-native/pull/152) in **[gunnartorfis/sonner-native](https://github.com/gunnartorfis/sonner-native)** ⭐804
