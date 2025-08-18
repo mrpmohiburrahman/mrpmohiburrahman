@@ -79,11 +79,13 @@
 ### :zap: My Latest Merged Pull Requests
 <!-- ## Latest Merged Pull Requests -->
 <!--START_SECTION:merged-prs-->
+1. 🎉 Merged PR: [feat: Add tooltip for branch button in the Legend panel #85](https://github.com/NirmalScaria/le-git-graph/pull/85) in **[NirmalScaria/le-git-graph](https://github.com/NirmalScaria/le-git-graph)** ⭐5027
+1. 🎉 Merged PR: [feat: add skip blur option #1704](https://github.com/callstack/react-native-testing-library/pull/1704) in **[callstack/react-native-testing-library](https://github.com/callstack/react-native-testing-library)** ⭐3252
 1. 🎉 Merged PR: [fix: custom jsx component breaks animation #152](https://github.com/gunnartorfis/sonner-native/pull/152) in **[gunnartorfis/sonner-native](https://github.com/gunnartorfis/sonner-native)** ⭐844
+1. 🎉 Merged PR: [feat: add group functionality #763](https://github.com/morenoh149/react-native-contacts/pull/763) in **[morenoh149/react-native-contacts](https://github.com/morenoh149/react-native-contacts)** ⭐1673
 1. 🎉 Merged PR: [Fix:  ERR_PNPM_RECURSIVE_EXEC_FIRST_FAIL  Command "prebuild:developme…" and gradle plugin issue with java version #371](https://github.com/obytes/react-native-template-obytes/pull/371) in **[obytes/react-native-template-obytes](https://github.com/obytes/react-native-template-obytes)** ⭐3488
 1. 🎉 Merged PR: [Add cobalt2 theme #1275](https://github.com/zed-industries/extensions/pull/1275) in **[zed-industries/extensions](https://github.com/zed-industries/extensions)** ⭐1178
-1. 🎉 Merged PR: [Update react-native-libraries.json #1036](https://github.com/react-native-community/directory/pull/1036) in **[react-native-community/directory](https://github.com/react-native-community/directory)** ⭐1245
-1. 🎉 Merged PR: [adding react-native-cone-slider #1029](https://github.com/react-native-community/directory/pull/1029) in **[react-native-community/directory](https://github.com/react-native-community/directory)** ⭐1245
+1. 🎉 Merged PR: [Nullish coalescing operator '??' #103](https://github.com/javascript-tutorial/bn.javascript.info/pull/103) in **[javascript-tutorial/bn.javascript.info](https://github.com/javascript-tutorial/bn.javascript.info)** ⭐119
 <!--END_SECTION:merged-prs-->
 
 ### :zap: Recent Activity
