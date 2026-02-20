@@ -101,11 +101,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16114](https://github.com/google-gemini/gemini-cli/issues/16114#issuecomment-3936560980) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
-2. 🗣 Commented on [#2492](https://github.com/google-gemini/gemini-cli/issues/2492#issuecomment-3933465485) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
-3. 🗣 Commented on [#19560](https://github.com/google-gemini/gemini-cli/issues/19560#issuecomment-3930344265) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
-4. 🔒 Closed issue [#19560](https://github.com/google-gemini/gemini-cli/issues/19560) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
-5. ❗ Opened issue [#19560](https://github.com/google-gemini/gemini-cli/issues/19560) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+1. 🗣 Commented on [#14646](https://github.com/google-gemini/gemini-cli/issues/14646#issuecomment-3937350592) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+2. 🗣 Commented on [#16114](https://github.com/google-gemini/gemini-cli/issues/16114#issuecomment-3936560980) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+3. 🗣 Commented on [#2492](https://github.com/google-gemini/gemini-cli/issues/2492#issuecomment-3933465485) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+4. 🗣 Commented on [#19560](https://github.com/google-gemini/gemini-cli/issues/19560#issuecomment-3930344265) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+5. 🔒 Closed issue [#19560](https://github.com/google-gemini/gemini-cli/issues/19560) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
 <!--END_SECTION:activity-->
 
 
