@@ -1,5 +1,5 @@
 
-### My <a href="https://www.pixellog.io/" target="_blank" rel="noopener noreferrer">Resume</a>.
+### My <a href="https://resume.rnui.dev/" target="_blank" rel="noopener noreferrer">Resume</a>.
 
 [![@mrp's Holopin board](https://holopin.io/api/user/board?user=mrp)](https://holopin.io/@mrp)
 
