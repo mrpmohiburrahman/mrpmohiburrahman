@@ -79,23 +79,24 @@
 ### :zap: My Latest Merged Pull Requests
 <!-- ## Latest Merged Pull Requests -->
 <!--START_SECTION:merged-prs-->
-1. 🎉 Merged PR: [fix: RNDeviceInfo is adding AD_ID permission through play-services-iid #1673](https://github.com/react-native-device-info/react-native-device-info/pull/1673) in **[react-native-device-info/react-native-device-info](https://github.com/react-native-device-info/react-native-device-info)** ⭐6601
-1. 🎉 Merged PR: [feat: Add tooltip for branch button in the Legend panel #85](https://github.com/NirmalScaria/le-git-graph/pull/85) in **[NirmalScaria/le-git-graph](https://github.com/NirmalScaria/le-git-graph)** ⭐5050
-1. 🎉 Merged PR: [feat: add skip blur option #1704](https://github.com/callstack/react-native-testing-library/pull/1704) in **[callstack/react-native-testing-library](https://github.com/callstack/react-native-testing-library)** ⭐3255
-1. 🎉 Merged PR: [fix: custom jsx component breaks animation #152](https://github.com/gunnartorfis/sonner-native/pull/152) in **[gunnartorfis/sonner-native](https://github.com/gunnartorfis/sonner-native)** ⭐847
-1. 🎉 Merged PR: [feat: add group functionality #763](https://github.com/morenoh149/react-native-contacts/pull/763) in **[morenoh149/react-native-contacts](https://github.com/morenoh149/react-native-contacts)** ⭐1673
-1. 🎉 Merged PR: [Fix:  ERR_PNPM_RECURSIVE_EXEC_FIRST_FAIL  Command "prebuild:developme…" and gradle plugin issue with java version #371](https://github.com/obytes/react-native-template-obytes/pull/371) in **[obytes/react-native-template-obytes](https://github.com/obytes/react-native-template-obytes)** ⭐3540
-1. 🎉 Merged PR: [fix: trim routes for android - no more then 6 tabs #38](https://github.com/callstackincubator/react-native-bottom-tabs/pull/38) in **[callstackincubator/react-native-bottom-tabs](https://github.com/callstackincubator/react-native-bottom-tabs)** ⭐1114
-1. 🎉 Merged PR: [Add cobalt2 theme #1275](https://github.com/zed-industries/extensions/pull/1275) in **[zed-industries/extensions](https://github.com/zed-industries/extensions)** ⭐1181
-1. 🎉 Merged PR: [Update react-native-libraries.json #1036](https://github.com/react-native-community/directory/pull/1036) in **[react-native-community/directory](https://github.com/react-native-community/directory)** ⭐1246
-1. 🎉 Merged PR: [adding react-native-cone-slider #1029](https://github.com/react-native-community/directory/pull/1029) in **[react-native-community/directory](https://github.com/react-native-community/directory)** ⭐1246
+1. 🎉 Merged PR: [feat(cli): implement interactive shell autocompletion #20082](https://github.com/google-gemini/gemini-cli/pull/20082) in **[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)** ⭐96345
+1. 🎉 Merged PR: [fix: RNDeviceInfo is adding AD_ID permission through play-services-iid #1673](https://github.com/react-native-device-info/react-native-device-info/pull/1673) in **[react-native-device-info/react-native-device-info](https://github.com/react-native-device-info/react-native-device-info)** ⭐6665
+1. 🎉 Merged PR: [feat: Add tooltip for branch button in the Legend panel #85](https://github.com/NirmalScaria/le-git-graph/pull/85) in **[NirmalScaria/le-git-graph](https://github.com/NirmalScaria/le-git-graph)** ⭐5912
+1. 🎉 Merged PR: [feat: add skip blur option #1704](https://github.com/callstack/react-native-testing-library/pull/1704) in **[callstack/react-native-testing-library](https://github.com/callstack/react-native-testing-library)** ⭐3341
+1. 🎉 Merged PR: [fix: custom jsx component breaks animation #152](https://github.com/gunnartorfis/sonner-native-toasts/pull/152) in **[gunnartorfis/sonner-native-toasts](https://github.com/gunnartorfis/sonner-native-toasts)** ⭐1142
+1. 🎉 Merged PR: [feat: add group functionality #763](https://github.com/morenoh149/react-native-contacts/pull/763) in **[morenoh149/react-native-contacts](https://github.com/morenoh149/react-native-contacts)** ⭐1697
+1. 🎉 Merged PR: [Fix:  ERR_PNPM_RECURSIVE_EXEC_FIRST_FAIL  Command "prebuild:developme…" and gradle plugin issue with java version #371](https://github.com/obytes/react-native-template-obytes/pull/371) in **[obytes/react-native-template-obytes](https://github.com/obytes/react-native-template-obytes)** ⭐4034
+1. 🎉 Merged PR: [fix: trim routes for android - no more then 6 tabs #38](https://github.com/callstack/react-native-bottom-tabs/pull/38) in **[callstack/react-native-bottom-tabs](https://github.com/callstack/react-native-bottom-tabs)** ⭐1367
+1. 🎉 Merged PR: [Add cobalt2 theme #1275](https://github.com/zed-industries/extensions/pull/1275) in **[zed-industries/extensions](https://github.com/zed-industries/extensions)** ⭐1523
+1. 🎉 Merged PR: [Update react-native-libraries.json #1036](https://github.com/react-native-community/directory/pull/1036) in **[react-native-community/directory](https://github.com/react-native-community/directory)** ⭐1345
+1. 🎉 Merged PR: [adding react-native-cone-slider #1029](https://github.com/react-native-community/directory/pull/1029) in **[react-native-community/directory](https://github.com/react-native-community/directory)** ⭐1345
 1. 🎉 Merged PR: [Mrp/update readme #12](https://github.com/manav-studio/react-native-before-after/pull/12) in **[manav-studio/react-native-before-after](https://github.com/manav-studio/react-native-before-after)** ⭐1
 1. 🎉 Merged PR: [add slider support #10](https://github.com/manav-studio/react-native-before-after/pull/10) in **[manav-studio/react-native-before-after](https://github.com/manav-studio/react-native-before-after)** ⭐1
 1. 🎉 Merged PR: [detect faces if any in viewport #8](https://github.com/manav-studio/react-native-before-after/pull/8) in **[manav-studio/react-native-before-after](https://github.com/manav-studio/react-native-before-after)** ⭐1
 1. 🎉 Merged PR: [Mrp/pinch pan #7](https://github.com/manav-studio/react-native-before-after/pull/7) in **[manav-studio/react-native-before-after](https://github.com/manav-studio/react-native-before-after)** ⭐1
 1. 🎉 Merged PR: [add example repo with example app #6](https://github.com/manav-studio/react-native-before-after/pull/6) in **[manav-studio/react-native-before-after](https://github.com/manav-studio/react-native-before-after)** ⭐1
 1. 🎉 Merged PR: [Mrp/legal #2](https://github.com/manav-studio/react-native-before-after/pull/2) in **[manav-studio/react-native-before-after](https://github.com/manav-studio/react-native-before-after)** ⭐1
-1. 🎉 Merged PR: [Nullish coalescing operator '??' #103](https://github.com/javascript-tutorial/bn.javascript.info/pull/103) in **[javascript-tutorial/bn.javascript.info](https://github.com/javascript-tutorial/bn.javascript.info)** ⭐119
+1. 🎉 Merged PR: [Nullish coalescing operator '??' #103](https://github.com/javascript-tutorial/bn.javascript.info/pull/103) in **[javascript-tutorial/bn.javascript.info](https://github.com/javascript-tutorial/bn.javascript.info)** ⭐121
 <!--END_SECTION:merged-prs-->
 
 ### :zap: Recent Activity
