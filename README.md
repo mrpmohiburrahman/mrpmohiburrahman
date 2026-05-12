@@ -102,9 +102,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19775](https://github.com/google-gemini/gemini-cli/pull/19775) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
-2. 🗣 Commented on [#17439](https://github.com/google-gemini/gemini-cli/pull/17439#issuecomment-4013954091) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
-3. 🗣 Commented on [#16848](https://github.com/google-gemini/gemini-cli/pull/16848#issuecomment-3993086600) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+1. 🗣 Commented on [#16114](https://github.com/google-gemini/gemini-cli/issues/16114#issuecomment-4428617007) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+2. ❌ Closed PR [#19866](https://github.com/google-gemini/gemini-cli/pull/19866) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+3. 🗣 Commented on [#16114](https://github.com/google-gemini/gemini-cli/issues/16114#issuecomment-4428600636) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
 4. 🎉 Merged PR [#20082](https://github.com/google-gemini/gemini-cli/pull/20082) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
 5. 🗣 Commented on [#19866](https://github.com/google-gemini/gemini-cli/pull/19866#issuecomment-3961612304) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
 <!--END_SECTION:activity-->
