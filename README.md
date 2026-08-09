@@ -102,11 +102,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#16](https://github.com/mrpmohiburrahman/rnui.dev/pull/16) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
-2. ❌ Closed PR [#9](https://github.com/mrpmohiburrahman/rnui.dev/pull/9) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
-3. 🗣 Commented on [#9](https://github.com/mrpmohiburrahman/rnui.dev/pull/9#issuecomment-5125318599) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
-4. ❗ Opened issue [#15](https://github.com/mrpmohiburrahman/rnui.dev/issues/15) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
-5. 🗣 Commented on [#16114](https://github.com/google-gemini/gemini-cli/issues/16114#issuecomment-4428600636) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+1. 💪 Opened PR [#559](https://github.com/callstack/react-native-bottom-tabs/pull/559) in [callstack/react-native-bottom-tabs](https://github.com/callstack/react-native-bottom-tabs)
+2. ❌ Closed PR [#16](https://github.com/mrpmohiburrahman/rnui.dev/pull/16) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
+3. ❌ Closed PR [#9](https://github.com/mrpmohiburrahman/rnui.dev/pull/9) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
+4. 🗣 Commented on [#9](https://github.com/mrpmohiburrahman/rnui.dev/pull/9#issuecomment-5125318599) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
+5. ❗ Opened issue [#15](https://github.com/mrpmohiburrahman/rnui.dev/issues/15) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
 <!--END_SECTION:activity-->
 
 
