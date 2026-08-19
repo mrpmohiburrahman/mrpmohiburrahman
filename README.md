@@ -102,11 +102,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1331](https://github.com/release-it/release-it/pull/1331) in [release-it/release-it](https://github.com/release-it/release-it)
-2. 💪 Opened PR [#2139](https://github.com/postcss/postcss/pull/2139) in [postcss/postcss](https://github.com/postcss/postcss)
-3. 💪 Opened PR [#559](https://github.com/callstack/react-native-bottom-tabs/pull/559) in [callstack/react-native-bottom-tabs](https://github.com/callstack/react-native-bottom-tabs)
-4. ❌ Closed PR [#16](https://github.com/mrpmohiburrahman/rnui.dev/pull/16) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
-5. ❌ Closed PR [#9](https://github.com/mrpmohiburrahman/rnui.dev/pull/9) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
+1. 💪 Opened PR [#2299](https://github.com/mobxjs/mobx-state-tree/pull/2299) in [mobxjs/mobx-state-tree](https://github.com/mobxjs/mobx-state-tree)
+2. 💪 Opened PR [#1331](https://github.com/release-it/release-it/pull/1331) in [release-it/release-it](https://github.com/release-it/release-it)
+3. 💪 Opened PR [#2139](https://github.com/postcss/postcss/pull/2139) in [postcss/postcss](https://github.com/postcss/postcss)
+4. 💪 Opened PR [#559](https://github.com/callstack/react-native-bottom-tabs/pull/559) in [callstack/react-native-bottom-tabs](https://github.com/callstack/react-native-bottom-tabs)
+5. ❌ Closed PR [#16](https://github.com/mrpmohiburrahman/rnui.dev/pull/16) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
 <!--END_SECTION:activity-->
 
 
