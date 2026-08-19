@@ -102,11 +102,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1553](https://github.com/postcss/autoprefixer/pull/1553) in [postcss/autoprefixer](https://github.com/postcss/autoprefixer)
-2. 💪 Opened PR [#2299](https://github.com/mobxjs/mobx-state-tree/pull/2299) in [mobxjs/mobx-state-tree](https://github.com/mobxjs/mobx-state-tree)
-3. 💪 Opened PR [#1331](https://github.com/release-it/release-it/pull/1331) in [release-it/release-it](https://github.com/release-it/release-it)
-4. 💪 Opened PR [#2139](https://github.com/postcss/postcss/pull/2139) in [postcss/postcss](https://github.com/postcss/postcss)
-5. 💪 Opened PR [#559](https://github.com/callstack/react-native-bottom-tabs/pull/559) in [callstack/react-native-bottom-tabs](https://github.com/callstack/react-native-bottom-tabs)
+1. 🗣 Commented on [#10883](https://github.com/better-auth/better-auth/pull/10883#issuecomment-5340938294) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+2. 💪 Opened PR [#10883](https://github.com/better-auth/better-auth/pull/10883) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+3. 💪 Opened PR [#3039](https://github.com/infinitered/ignite/pull/3039) in [infinitered/ignite](https://github.com/infinitered/ignite)
+4. 💪 Opened PR [#1835](https://github.com/GetStream/stream-chat-js/pull/1835) in [GetStream/stream-chat-js](https://github.com/GetStream/stream-chat-js)
+5. 💪 Opened PR [#4694](https://github.com/mobxjs/mobx/pull/4694) in [mobxjs/mobx](https://github.com/mobxjs/mobx)
 <!--END_SECTION:activity-->
 
 
