@@ -102,11 +102,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2690](https://github.com/modelcontextprotocol/typescript-sdk/pull/2690) in [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk)
-2. 💪 Opened PR [#756](https://github.com/netlify/primitives/pull/756) in [netlify/primitives](https://github.com/netlify/primitives)
-3. 💪 Opened PR [#2059](https://github.com/livekit/client-sdk-js/pull/2059) in [livekit/client-sdk-js](https://github.com/livekit/client-sdk-js)
-4. 💪 Opened PR [#2763](https://github.com/sinonjs/sinon/pull/2763) in [sinonjs/sinon](https://github.com/sinonjs/sinon)
-5. 🗣 Commented on [#1553](https://github.com/postcss/autoprefixer/pull/1553#issuecomment-5349523882) in [postcss/autoprefixer](https://github.com/postcss/autoprefixer)
+1. 🎉 Merged PR [#2059](https://github.com/livekit/client-sdk-js/pull/2059) in [livekit/client-sdk-js](https://github.com/livekit/client-sdk-js)
+2. 💪 Opened PR [#2690](https://github.com/modelcontextprotocol/typescript-sdk/pull/2690) in [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk)
+3. 💪 Opened PR [#756](https://github.com/netlify/primitives/pull/756) in [netlify/primitives](https://github.com/netlify/primitives)
+4. 💪 Opened PR [#2059](https://github.com/livekit/client-sdk-js/pull/2059) in [livekit/client-sdk-js](https://github.com/livekit/client-sdk-js)
+5. 💪 Opened PR [#2763](https://github.com/sinonjs/sinon/pull/2763) in [sinonjs/sinon](https://github.com/sinonjs/sinon)
 <!--END_SECTION:activity-->
 
 
