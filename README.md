@@ -102,11 +102,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2763](https://github.com/sinonjs/sinon/pull/2763) in [sinonjs/sinon](https://github.com/sinonjs/sinon)
-2. 🗣 Commented on [#1553](https://github.com/postcss/autoprefixer/pull/1553#issuecomment-5349523882) in [postcss/autoprefixer](https://github.com/postcss/autoprefixer)
-3. 💪 Opened PR [#612](https://github.com/open-cli-tools/concurrently/pull/612) in [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently)
-4. 💪 Opened PR [#10891](https://github.com/better-auth/better-auth/pull/10891) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-5. 💪 Opened PR [#10890](https://github.com/better-auth/better-auth/pull/10890) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+1. 💪 Opened PR [#756](https://github.com/netlify/primitives/pull/756) in [netlify/primitives](https://github.com/netlify/primitives)
+2. 💪 Opened PR [#2059](https://github.com/livekit/client-sdk-js/pull/2059) in [livekit/client-sdk-js](https://github.com/livekit/client-sdk-js)
+3. 💪 Opened PR [#2763](https://github.com/sinonjs/sinon/pull/2763) in [sinonjs/sinon](https://github.com/sinonjs/sinon)
+4. 🗣 Commented on [#1553](https://github.com/postcss/autoprefixer/pull/1553#issuecomment-5349523882) in [postcss/autoprefixer](https://github.com/postcss/autoprefixer)
+5. 💪 Opened PR [#612](https://github.com/open-cli-tools/concurrently/pull/612) in [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently)
 <!--END_SECTION:activity-->
 
 
