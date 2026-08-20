@@ -1,7 +1,6 @@
 import axios from "axios";
 import * as fs from "node:fs";
 import * as path from "node:path";
-import { Octokit } from "@octokit/rest";
 import "dotenv/config";
 
 const GH_TOKEN = process.env.GH_TOKEN || "";
@@ -17,26 +16,20 @@ const MIN_STARS = undefined; // Set this to a number to filter by stars, or leav
 const INCLUDE_MERGE_DATE = false; // Toggle this variable to include or exclude the "merged on" date
 const MAX_ITEMS = undefined; // Set this to a number to limit items, or leave undefined to include all
 
-const octokit = new Octokit({
-	auth: GH_TOKEN,
-});
-
 async function getMergedPRs() {
-	try {
-		const response = await axios.get(
-			`https://api.github.com/search/issues?q=author:${USER}+type:pr+is:merged&sort=updated&order=desc`,
-			{
-				headers: {
-					Authorization: `token ${GH_TOKEN}`,
-				},
+	// No try/catch on purpose: a failure here (expired token, rate limit, outage) must
+	// crash the job. Swallowing it returned [], main() skipped the rewrite, the process
+	// exited 0 and Actions reported success -- the README silently froze for 5 months.
+	const response = await axios.get(
+		`https://api.github.com/search/issues?q=author:${USER}+type:pr+is:merged&sort=updated&order=desc`,
+		{
+			headers: {
+				Authorization: `token ${GH_TOKEN}`,
 			},
-		);
+		},
+	);
 
-		return response.data.items;
-	} catch (error) {
-		console.error("Error fetching merged PRs:", error);
-		return [];
-	}
+	return response.data.items;
 }
 
 async function getRepoStars(owner: string, repo: string) {
@@ -68,6 +61,11 @@ async function formatMergedPRs(prs: any[]) {
 			// Check if the repository is in the avoid list
 			if (AVOID_REPOS.includes(repoFullName)) {
 				return null; // Skip this PR
+			}
+
+			// Own repos are not open-source contributions
+			if (repoOwner === USER) {
+				return null;
 			}
 
 			const stars = await getRepoStars(repoOwner, repoName); // Fetch the star count
@@ -110,37 +108,16 @@ function updateReadme(mergedPRsContent: string) {
 async function main() {
 	const mergedPRs = await getMergedPRs();
 
-	if (mergedPRs.length > 0) {
-		const mergedPRsContent = await formatMergedPRs(mergedPRs);
-		updateReadme(mergedPRsContent);
-
-		const contentResponse = await octokit.repos.getContent({
-			owner: USER,
-			repo: REPO,
-			path: "README.md",
-		});
-
-		let sha: string | undefined;
-
-		if (!Array.isArray(contentResponse.data) && contentResponse.data.sha) {
-			sha = contentResponse.data.sha;
-		} else {
-			throw new Error("Unexpected response type, expected a single file.");
-		}
-
-		await octokit.repos.createOrUpdateFileContents({
-			owner: USER,
-			repo: REPO,
-			path: "README.md",
-			message: COMMIT_MESSAGE,
-			content: Buffer.from(fs.readFileSync(README_PATH, "utf-8")).toString(
-				"base64",
-			),
-			sha: sha!,
-		});
+	if (mergedPRs.length === 0) {
+		throw new Error(
+			"Search returned zero merged PRs. That is never correct for this account, so treat it as a failure rather than writing an empty section.",
+		);
 	}
+
+	updateReadme(await formatMergedPRs(mergedPRs));
 }
 
 main().catch((error) => {
 	console.error("Error updating README:", error);
+	process.exit(1);
 });
