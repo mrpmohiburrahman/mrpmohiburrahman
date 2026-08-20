@@ -5,6 +5,9 @@ on:
   schedule:
     - cron: "0 * * * *"  # Runs every hour at the top of the hour (0th minute)
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     name: Update README with Merged PRs
@@ -24,28 +27,20 @@ jobs:
 
       - name: Run script to update README
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: npx tsx index.ts
 
-      - name: Stash any changes
-        id: stash
-        run: |
-          git stash
-          echo "stash_result=$(git stash list)" >> $GITHUB_ENV
-
-      - name: Pull the latest changes
-        run: git pull origin main
-
-      - name: Apply stashed changes if any
-        if: env.stash_result != ''
-        run: git stash pop
-
-      - name: Commit changes
+      - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions-merged-prs[bot]'
           git config --global user.email 'github-actions-merged-prs[bot]@users.noreply.github.com'
           git add README.md
-          git commit -m "Updated README with latest merged PR info" || echo "No changes to commit"
+          if git diff --cached --quiet; then
+            echo "README already up to date"
+            exit 0
+          fi
+          git commit -m "Updated README with latest merged PR info"
+          git pull --rebase origin main
           git push
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
