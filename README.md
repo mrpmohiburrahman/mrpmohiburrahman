@@ -102,11 +102,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10891](https://github.com/better-auth/better-auth/pull/10891) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-2. 💪 Opened PR [#10890](https://github.com/better-auth/better-auth/pull/10890) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-3. 💪 Opened PR [#10889](https://github.com/better-auth/better-auth/pull/10889) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-4. 🎉 Merged PR [#4694](https://github.com/mobxjs/mobx/pull/4694) in [mobxjs/mobx](https://github.com/mobxjs/mobx)
-5. 💪 Opened PR [#10883](https://github.com/better-auth/better-auth/pull/10883) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+1. 🗣 Commented on [#1553](https://github.com/postcss/autoprefixer/pull/1553#issuecomment-5349523882) in [postcss/autoprefixer](https://github.com/postcss/autoprefixer)
+2. 💪 Opened PR [#612](https://github.com/open-cli-tools/concurrently/pull/612) in [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently)
+3. 💪 Opened PR [#10891](https://github.com/better-auth/better-auth/pull/10891) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+4. 💪 Opened PR [#10890](https://github.com/better-auth/better-auth/pull/10890) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+5. 💪 Opened PR [#10889](https://github.com/better-auth/better-auth/pull/10889) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
 <!--END_SECTION:activity-->
 
 
