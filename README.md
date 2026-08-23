@@ -105,11 +105,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/mrpmohiburrahman/mrpmohiburrahman/pull/1) in [mrpmohiburrahman/mrpmohiburrahman](https://github.com/mrpmohiburrahman/mrpmohiburrahman)
-2. 🎉 Merged PR [#1](https://github.com/mrpmohiburrahman/mrpmohiburrahman/pull/1) in [mrpmohiburrahman/mrpmohiburrahman](https://github.com/mrpmohiburrahman/mrpmohiburrahman)
-3. 🎉 Merged PR [#2059](https://github.com/livekit/client-sdk-js/pull/2059) in [livekit/client-sdk-js](https://github.com/livekit/client-sdk-js)
-4. 💪 Opened PR [#2690](https://github.com/modelcontextprotocol/typescript-sdk/pull/2690) in [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk)
-5. 💪 Opened PR [#756](https://github.com/netlify/primitives/pull/756) in [netlify/primitives](https://github.com/netlify/primitives)
+1. 💪 Opened PR [#833](https://github.com/privatenumber/tsx/pull/833) in [privatenumber/tsx](https://github.com/privatenumber/tsx)
+2. 🗣 Commented on [#2299](https://github.com/mobxjs/mobx-state-tree/pull/2299#issuecomment-5386310104) in [mobxjs/mobx-state-tree](https://github.com/mobxjs/mobx-state-tree)
+3. 💪 Opened PR [#1](https://github.com/mrpmohiburrahman/mrpmohiburrahman/pull/1) in [mrpmohiburrahman/mrpmohiburrahman](https://github.com/mrpmohiburrahman/mrpmohiburrahman)
+4. 🎉 Merged PR [#1](https://github.com/mrpmohiburrahman/mrpmohiburrahman/pull/1) in [mrpmohiburrahman/mrpmohiburrahman](https://github.com/mrpmohiburrahman/mrpmohiburrahman)
+5. 🎉 Merged PR [#2059](https://github.com/livekit/client-sdk-js/pull/2059) in [livekit/client-sdk-js](https://github.com/livekit/client-sdk-js)
 <!--END_SECTION:activity-->
 
 
