@@ -81,7 +81,7 @@
 <!--START_SECTION:merged-prs-->
 1. 🎉 Merged PR: [fix: do not reset channel unread count on thread read #1835](https://github.com/GetStream/stream-chat-js/pull/1835) in **[GetStream/stream-chat-js](https://github.com/GetStream/stream-chat-js)** ⭐209
 1. 🎉 Merged PR: [feat: support number options in types.enumeration #2299](https://github.com/mobxjs/mobx-state-tree/pull/2299) in **[mobxjs/mobx-state-tree](https://github.com/mobxjs/mobx-state-tree)** ⭐7053
-1. 🎉 Merged PR: [fix: compare typeof against 'undefined' string in supportsAdaptiveStream #2059](https://github.com/livekit/client-sdk-js/pull/2059) in **[livekit/client-sdk-js](https://github.com/livekit/client-sdk-js)** ⭐649
+1. 🎉 Merged PR: [fix: compare typeof against 'undefined' string in supportsAdaptiveStream #2059](https://github.com/livekit/client-sdk-js/pull/2059) in **[livekit/client-sdk-js](https://github.com/livekit/client-sdk-js)** ⭐650
 1. 🎉 Merged PR: [Fix onBecomeObserved not firing when a computed becomes observed while serving a cached value #4694](https://github.com/mobxjs/mobx/pull/4694) in **[mobxjs/mobx](https://github.com/mobxjs/mobx)** ⭐28206
 1. 🎉 Merged PR: [feat(cli): implement interactive shell autocompletion #20082](https://github.com/google-gemini/gemini-cli/pull/20082) in **[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)** ⭐106751
 1. 🎉 Merged PR: [fix(core): add explicit git identity env vars to prevent sandbox checkpointing error #19775](https://github.com/google-gemini/gemini-cli/pull/19775) in **[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)** ⭐106751
