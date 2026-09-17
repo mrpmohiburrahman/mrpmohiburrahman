@@ -107,11 +107,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1835](https://github.com/GetStream/stream-chat-js/pull/1835) in [GetStream/stream-chat-js](https://github.com/GetStream/stream-chat-js)
-2. 🎉 Merged PR [#2299](https://github.com/mobxjs/mobx-state-tree/pull/2299) in [mobxjs/mobx-state-tree](https://github.com/mobxjs/mobx-state-tree)
-3. 💪 Opened PR [#833](https://github.com/privatenumber/tsx/pull/833) in [privatenumber/tsx](https://github.com/privatenumber/tsx)
-4. 🗣 Commented on [#2299](https://github.com/mobxjs/mobx-state-tree/pull/2299#issuecomment-5386310104) in [mobxjs/mobx-state-tree](https://github.com/mobxjs/mobx-state-tree)
-5. 💪 Opened PR [#1](https://github.com/mrpmohiburrahman/mrpmohiburrahman/pull/1) in [mrpmohiburrahman/mrpmohiburrahman](https://github.com/mrpmohiburrahman/mrpmohiburrahman)
+1. 🎉 Merged PR [#1331](https://github.com/release-it/release-it/pull/1331) in [release-it/release-it](https://github.com/release-it/release-it)
+2. 🎉 Merged PR [#1835](https://github.com/GetStream/stream-chat-js/pull/1835) in [GetStream/stream-chat-js](https://github.com/GetStream/stream-chat-js)
+3. 🎉 Merged PR [#2299](https://github.com/mobxjs/mobx-state-tree/pull/2299) in [mobxjs/mobx-state-tree](https://github.com/mobxjs/mobx-state-tree)
+4. 💪 Opened PR [#833](https://github.com/privatenumber/tsx/pull/833) in [privatenumber/tsx](https://github.com/privatenumber/tsx)
+5. 🗣 Commented on [#2299](https://github.com/mobxjs/mobx-state-tree/pull/2299#issuecomment-5386310104) in [mobxjs/mobx-state-tree](https://github.com/mobxjs/mobx-state-tree)
 <!--END_SECTION:activity-->
 
 
