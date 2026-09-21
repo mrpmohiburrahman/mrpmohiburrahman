@@ -81,7 +81,7 @@
 <!--START_SECTION:merged-prs-->
 1. 🎉 Merged PR: [fix: do not reset channel unread count on thread read #1835](https://github.com/GetStream/stream-chat-js/pull/1835) in **[GetStream/stream-chat-js](https://github.com/GetStream/stream-chat-js)** ⭐209
 1. 🎉 Merged PR: [Support proxy environment variables in GitLab (resolve #1131) #1331](https://github.com/release-it/release-it/pull/1331) in **[release-it/release-it](https://github.com/release-it/release-it)** ⭐9062
-1. 🎉 Merged PR: [feat: support number options in types.enumeration #2299](https://github.com/mobxjs/mobx-state-tree/pull/2299) in **[mobxjs/mobx-state-tree](https://github.com/mobxjs/mobx-state-tree)** ⭐7052
+1. 🎉 Merged PR: [feat: support number options in types.enumeration #2299](https://github.com/mobxjs/mobx-state-tree/pull/2299) in **[mobxjs/mobx-state-tree](https://github.com/mobxjs/mobx-state-tree)** ⭐7053
 1. 🎉 Merged PR: [fix: compare typeof against 'undefined' string in supportsAdaptiveStream #2059](https://github.com/livekit/client-sdk-js/pull/2059) in **[livekit/client-sdk-js](https://github.com/livekit/client-sdk-js)** ⭐653
 1. 🎉 Merged PR: [Fix onBecomeObserved not firing when a computed becomes observed while serving a cached value #4694](https://github.com/mobxjs/mobx/pull/4694) in **[mobxjs/mobx](https://github.com/mobxjs/mobx)** ⭐28210
 1. 🎉 Merged PR: [feat(cli): implement interactive shell autocompletion #20082](https://github.com/google-gemini/gemini-cli/pull/20082) in **[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)** ⭐107103
@@ -93,7 +93,7 @@
 1. 🎉 Merged PR: [feat: add group functionality #763](https://github.com/morenoh149/react-native-contacts/pull/763) in **[morenoh149/react-native-contacts](https://github.com/morenoh149/react-native-contacts)** ⭐1706
 1. 🎉 Merged PR: [Fix:  ERR_PNPM_RECURSIVE_EXEC_FIRST_FAIL  Command "prebuild:developme…" and gradle plugin issue with java version #371](https://github.com/obytes/react-native-template-obytes/pull/371) in **[obytes/react-native-template-obytes](https://github.com/obytes/react-native-template-obytes)** ⭐4346
 1. 🎉 Merged PR: [fix: trim routes for android - no more then 6 tabs #38](https://github.com/callstack/react-native-bottom-tabs/pull/38) in **[callstack/react-native-bottom-tabs](https://github.com/callstack/react-native-bottom-tabs)** ⭐1455
-1. 🎉 Merged PR: [Add cobalt2 theme #1275](https://github.com/zed-industries/extensions/pull/1275) in **[zed-industries/extensions](https://github.com/zed-industries/extensions)** ⭐1895
+1. 🎉 Merged PR: [Add cobalt2 theme #1275](https://github.com/zed-industries/extensions/pull/1275) in **[zed-industries/extensions](https://github.com/zed-industries/extensions)** ⭐1896
 1. 🎉 Merged PR: [Update react-native-libraries.json #1036](https://github.com/react-native-community/directory/pull/1036) in **[react-native-community/directory](https://github.com/react-native-community/directory)** ⭐1405
 1. 🎉 Merged PR: [adding react-native-cone-slider #1029](https://github.com/react-native-community/directory/pull/1029) in **[react-native-community/directory](https://github.com/react-native-community/directory)** ⭐1405
 1. 🎉 Merged PR: [Mrp/update readme #12](https://github.com/manav-studio/react-native-before-after/pull/12) in **[manav-studio/react-native-before-after](https://github.com/manav-studio/react-native-before-after)** ⭐1
