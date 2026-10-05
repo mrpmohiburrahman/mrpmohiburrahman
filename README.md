@@ -108,11 +108,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/mrpmohiburrahman/rnui.dev/pull/19) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
-2. 💪 Opened PR [#19](https://github.com/mrpmohiburrahman/rnui.dev/pull/19) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
-3. 🔒 Closed issue [#15](https://github.com/mrpmohiburrahman/rnui.dev/issues/15) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
-4. 🔒 Closed issue [#3](https://github.com/mrpmohiburrahman/rnui.dev/issues/3) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
-5. 🗣 Commented on [#3](https://github.com/mrpmohiburrahman/rnui.dev/issues/3#issuecomment-5824701116) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
+1. 🎉 Merged PR [#21](https://github.com/mrpmohiburrahman/rnui.dev/pull/21) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
+2. 💪 Opened PR [#21](https://github.com/mrpmohiburrahman/rnui.dev/pull/21) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
+3. 🎉 Merged PR [#20](https://github.com/mrpmohiburrahman/rnui.dev/pull/20) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
+4. 💪 Opened PR [#20](https://github.com/mrpmohiburrahman/rnui.dev/pull/20) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
+5. 🎉 Merged PR [#19](https://github.com/mrpmohiburrahman/rnui.dev/pull/19) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
 <!--END_SECTION:activity-->
 
 
