@@ -106,11 +106,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/mrpmohiburrahman/mobile-development-environment/pull/1) in [mrpmohiburrahman/mobile-development-environment](https://github.com/mrpmohiburrahman/mobile-development-environment)
-2. 🎉 Merged PR [#22](https://github.com/mrpmohiburrahman/rnui.dev/pull/22) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
-3. 💪 Opened PR [#22](https://github.com/mrpmohiburrahman/rnui.dev/pull/22) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
-4. 🎉 Merged PR [#21](https://github.com/mrpmohiburrahman/rnui.dev/pull/21) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
-5. 💪 Opened PR [#21](https://github.com/mrpmohiburrahman/rnui.dev/pull/21) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
+1. 💪 Opened PR [#2](https://github.com/mrpmohiburrahman/mobile-development-environment/pull/2) in [mrpmohiburrahman/mobile-development-environment](https://github.com/mrpmohiburrahman/mobile-development-environment)
+2. 💪 Opened PR [#1](https://github.com/mrpmohiburrahman/mobile-development-environment/pull/1) in [mrpmohiburrahman/mobile-development-environment](https://github.com/mrpmohiburrahman/mobile-development-environment)
+3. 🎉 Merged PR [#22](https://github.com/mrpmohiburrahman/rnui.dev/pull/22) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
+4. 💪 Opened PR [#22](https://github.com/mrpmohiburrahman/rnui.dev/pull/22) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
+5. 🎉 Merged PR [#21](https://github.com/mrpmohiburrahman/rnui.dev/pull/21) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
 <!--END_SECTION:activity-->
 
 
