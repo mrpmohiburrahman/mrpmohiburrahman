@@ -103,11 +103,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/mrpmohiburrahman/mobile-development-environment/pull/4) in [mrpmohiburrahman/mobile-development-environment](https://github.com/mrpmohiburrahman/mobile-development-environment)
-2. 🎉 Merged PR [#1](https://github.com/mrpmohiburrahman/mobile-development-environment/pull/1) in [mrpmohiburrahman/mobile-development-environment](https://github.com/mrpmohiburrahman/mobile-development-environment)
-3. 🎉 Merged PR [#2](https://github.com/mrpmohiburrahman/mobile-development-environment/pull/2) in [mrpmohiburrahman/mobile-development-environment](https://github.com/mrpmohiburrahman/mobile-development-environment)
-4. 💪 Opened PR [#4](https://github.com/mrpmohiburrahman/mobile-development-environment/pull/4) in [mrpmohiburrahman/mobile-development-environment](https://github.com/mrpmohiburrahman/mobile-development-environment)
-5. 💪 Opened PR [#3](https://github.com/mrpmohiburrahman/mobile-development-environment/pull/3) in [mrpmohiburrahman/mobile-development-environment](https://github.com/mrpmohiburrahman/mobile-development-environment)
+1. 🎉 Merged PR [#3](https://github.com/mrpmohiburrahman/mobile-development-environment/pull/3) in [mrpmohiburrahman/mobile-development-environment](https://github.com/mrpmohiburrahman/mobile-development-environment)
+2. 🎉 Merged PR [#4](https://github.com/mrpmohiburrahman/mobile-development-environment/pull/4) in [mrpmohiburrahman/mobile-development-environment](https://github.com/mrpmohiburrahman/mobile-development-environment)
+3. 🎉 Merged PR [#1](https://github.com/mrpmohiburrahman/mobile-development-environment/pull/1) in [mrpmohiburrahman/mobile-development-environment](https://github.com/mrpmohiburrahman/mobile-development-environment)
+4. 🎉 Merged PR [#2](https://github.com/mrpmohiburrahman/mobile-development-environment/pull/2) in [mrpmohiburrahman/mobile-development-environment](https://github.com/mrpmohiburrahman/mobile-development-environment)
+5. 💪 Opened PR [#4](https://github.com/mrpmohiburrahman/mobile-development-environment/pull/4) in [mrpmohiburrahman/mobile-development-environment](https://github.com/mrpmohiburrahman/mobile-development-environment)
 <!--END_SECTION:activity-->
 
 
