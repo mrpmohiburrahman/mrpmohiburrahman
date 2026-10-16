@@ -103,11 +103,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1193](https://github.com/tester-army/e2e/pull/1193) in [tester-army/e2e](https://github.com/tester-army/e2e)
-2. 💪 Opened PR [#1013](https://github.com/software-mansion/enriched-markdown/pull/1013) in [software-mansion/enriched-markdown](https://github.com/software-mansion/enriched-markdown)
-3. 🎉 Merged PR [#3](https://github.com/mrpmohiburrahman/mobile-development-environment/pull/3) in [mrpmohiburrahman/mobile-development-environment](https://github.com/mrpmohiburrahman/mobile-development-environment)
-4. 🎉 Merged PR [#4](https://github.com/mrpmohiburrahman/mobile-development-environment/pull/4) in [mrpmohiburrahman/mobile-development-environment](https://github.com/mrpmohiburrahman/mobile-development-environment)
-5. 🎉 Merged PR [#1](https://github.com/mrpmohiburrahman/mobile-development-environment/pull/1) in [mrpmohiburrahman/mobile-development-environment](https://github.com/mrpmohiburrahman/mobile-development-environment)
+1. ℹ️ Reopened PR [#1013](https://github.com/software-mansion/enriched-markdown/pull/1013) in [software-mansion/enriched-markdown](https://github.com/software-mansion/enriched-markdown)
+2. ❌ Closed PR [#1013](https://github.com/software-mansion/enriched-markdown/pull/1013) in [software-mansion/enriched-markdown](https://github.com/software-mansion/enriched-markdown)
+3. 💪 Opened PR [#1193](https://github.com/tester-army/e2e/pull/1193) in [tester-army/e2e](https://github.com/tester-army/e2e)
+4. 💪 Opened PR [#1013](https://github.com/software-mansion/enriched-markdown/pull/1013) in [software-mansion/enriched-markdown](https://github.com/software-mansion/enriched-markdown)
+5. 🎉 Merged PR [#3](https://github.com/mrpmohiburrahman/mobile-development-environment/pull/3) in [mrpmohiburrahman/mobile-development-environment](https://github.com/mrpmohiburrahman/mobile-development-environment)
 <!--END_SECTION:activity-->
 
 
