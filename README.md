@@ -102,11 +102,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/mrpmohiburrahman/rnui.dev/pull/24) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
-2. 💪 Opened PR [#24](https://github.com/mrpmohiburrahman/rnui.dev/pull/24) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
-3. ℹ️ Reopened PR [#1013](https://github.com/software-mansion/enriched-markdown/pull/1013) in [software-mansion/enriched-markdown](https://github.com/software-mansion/enriched-markdown)
-4. ❌ Closed PR [#1013](https://github.com/software-mansion/enriched-markdown/pull/1013) in [software-mansion/enriched-markdown](https://github.com/software-mansion/enriched-markdown)
-5. 💪 Opened PR [#1193](https://github.com/tester-army/e2e/pull/1193) in [tester-army/e2e](https://github.com/tester-army/e2e)
+1. 🎉 Merged PR [#26](https://github.com/mrpmohiburrahman/rnui.dev/pull/26) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
+2. 💪 Opened PR [#26](https://github.com/mrpmohiburrahman/rnui.dev/pull/26) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
+3. 💪 Opened PR [#25](https://github.com/mrpmohiburrahman/rnui.dev/pull/25) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
+4. 🎉 Merged PR [#24](https://github.com/mrpmohiburrahman/rnui.dev/pull/24) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
+5. 💪 Opened PR [#24](https://github.com/mrpmohiburrahman/rnui.dev/pull/24) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
 <!--END_SECTION:activity-->
 
 
