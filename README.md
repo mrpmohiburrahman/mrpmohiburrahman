@@ -79,7 +79,7 @@
 ### :zap: My Latest Merged Pull Requests
 <!-- ## Latest Merged Pull Requests -->
 <!--START_SECTION:merged-prs-->
-1. 🎉 Merged PR: [fix: do not reset channel unread count on thread read #1835](https://github.com/GetStream/stream-chat-js/pull/1835) in **[GetStream/stream-chat-js](https://github.com/GetStream/stream-chat-js)** ⭐212
+1. 🎉 Merged PR: [fix: do not reset channel unread count on thread read #1835](https://github.com/GetStream/stream-chat-js/pull/1835) in **[GetStream/stream-chat-js](https://github.com/GetStream/stream-chat-js)** ⭐211
 1. 🎉 Merged PR: [Support proxy environment variables in GitLab (resolve #1131) #1331](https://github.com/release-it/release-it/pull/1331) in **[release-it/release-it](https://github.com/release-it/release-it)** ⭐9083
 1. 🎉 Merged PR: [feat: support number options in types.enumeration #2299](https://github.com/mobxjs/mobx-state-tree/pull/2299) in **[mobxjs/mobx-state-tree](https://github.com/mobxjs/mobx-state-tree)** ⭐7053
 1. 🎉 Merged PR: [fix: compare typeof against 'undefined' string in supportsAdaptiveStream #2059](https://github.com/livekit/client-sdk-js/pull/2059) in **[livekit/client-sdk-js](https://github.com/livekit/client-sdk-js)** ⭐668
@@ -93,7 +93,7 @@
 1. 🎉 Merged PR: [feat: add group functionality #763](https://github.com/morenoh149/react-native-contacts/pull/763) in **[morenoh149/react-native-contacts](https://github.com/morenoh149/react-native-contacts)** ⭐1711
 1. 🎉 Merged PR: [Fix:  ERR_PNPM_RECURSIVE_EXEC_FIRST_FAIL  Command "prebuild:developme…" and gradle plugin issue with java version #371](https://github.com/obytes/react-native-template-obytes/pull/371) in **[obytes/react-native-template-obytes](https://github.com/obytes/react-native-template-obytes)** ⭐4364
 1. 🎉 Merged PR: [fix: trim routes for android - no more then 6 tabs #38](https://github.com/callstack/react-native-bottom-tabs/pull/38) in **[callstack/react-native-bottom-tabs](https://github.com/callstack/react-native-bottom-tabs)** ⭐1473
-1. 🎉 Merged PR: [Add cobalt2 theme #1275](https://github.com/zed-industries/extensions/pull/1275) in **[zed-industries/extensions](https://github.com/zed-industries/extensions)** ⭐1963
+1. 🎉 Merged PR: [Add cobalt2 theme #1275](https://github.com/zed-industries/extensions/pull/1275) in **[zed-industries/extensions](https://github.com/zed-industries/extensions)** ⭐1964
 1. 🎉 Merged PR: [Update react-native-libraries.json #1036](https://github.com/react-native-community/directory/pull/1036) in **[react-native-community/directory](https://github.com/react-native-community/directory)** ⭐1411
 1. 🎉 Merged PR: [adding react-native-cone-slider #1029](https://github.com/react-native-community/directory/pull/1029) in **[react-native-community/directory](https://github.com/react-native-community/directory)** ⭐1411
 <!--END_SECTION:merged-prs-->
