@@ -101,11 +101,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/mrpmohiburrahman/rnui.dev/issues/23#issuecomment-6558306980) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
-2. 🔒 Closed issue [#23](https://github.com/mrpmohiburrahman/rnui.dev/issues/23) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
-3. 🗣 Commented on [#23](https://github.com/mrpmohiburrahman/rnui.dev/issues/23#issuecomment-6556381481) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
-4. 🎉 Merged PR [#25](https://github.com/mrpmohiburrahman/rnui.dev/pull/25) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
-5. ❌ Closed PR [#28](https://github.com/mrpmohiburrahman/rnui.dev/pull/28) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
+1. 🗣 Commented on [#10890](https://github.com/better-auth/better-auth/pull/10890#issuecomment-6856291724) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+2. 🗣 Commented on [#23](https://github.com/mrpmohiburrahman/rnui.dev/issues/23#issuecomment-6558306980) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
+3. 🔒 Closed issue [#23](https://github.com/mrpmohiburrahman/rnui.dev/issues/23) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
+4. 🗣 Commented on [#23](https://github.com/mrpmohiburrahman/rnui.dev/issues/23#issuecomment-6556381481) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
+5. 🎉 Merged PR [#25](https://github.com/mrpmohiburrahman/rnui.dev/pull/25) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
 <!--END_SECTION:activity-->
 
 
