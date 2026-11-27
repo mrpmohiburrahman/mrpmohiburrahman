@@ -100,11 +100,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2763](https://github.com/sinonjs/sinon/pull/2763) in [sinonjs/sinon](https://github.com/sinonjs/sinon)
-2. ❌ Closed PR [#102](https://github.com/prooflinedev/cli/pull/102) in [prooflinedev/cli](https://github.com/prooflinedev/cli)
-3. 💪 Opened PR [#102](https://github.com/prooflinedev/cli/pull/102) in [prooflinedev/cli](https://github.com/prooflinedev/cli)
-4. 💪 Opened PR [#101](https://github.com/prooflinedev/cli/pull/101) in [prooflinedev/cli](https://github.com/prooflinedev/cli)
-5. 🎉 Merged PR [#30](https://github.com/mrpmohiburrahman/rnui.dev/pull/30) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
+1. 💪 Opened PR [#89](https://github.com/prooflinedev/sdk-typescript/pull/89) in [prooflinedev/sdk-typescript](https://github.com/prooflinedev/sdk-typescript)
+2. 💪 Opened PR [#88](https://github.com/prooflinedev/sdk-typescript/pull/88) in [prooflinedev/sdk-typescript](https://github.com/prooflinedev/sdk-typescript)
+3. 🎉 Merged PR [#2763](https://github.com/sinonjs/sinon/pull/2763) in [sinonjs/sinon](https://github.com/sinonjs/sinon)
+4. ❌ Closed PR [#102](https://github.com/prooflinedev/cli/pull/102) in [prooflinedev/cli](https://github.com/prooflinedev/cli)
+5. 💪 Opened PR [#102](https://github.com/prooflinedev/cli/pull/102) in [prooflinedev/cli](https://github.com/prooflinedev/cli)
 <!--END_SECTION:activity-->
 
 
