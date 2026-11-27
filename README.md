@@ -100,11 +100,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/mrpmohiburrahman/rnui.dev/pull/30) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
-2. ❗ Opened issue [#32](https://github.com/mrpmohiburrahman/rnui.dev/issues/32) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
-3. ❗ Opened issue [#31](https://github.com/mrpmohiburrahman/rnui.dev/issues/31) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
-4. 💪 Opened PR [#30](https://github.com/mrpmohiburrahman/rnui.dev/pull/30) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
-5. 🗣 Commented on [#559](https://github.com/callstack/react-native-bottom-tabs/pull/559#issuecomment-6875501550) in [callstack/react-native-bottom-tabs](https://github.com/callstack/react-native-bottom-tabs)
+1. 💪 Opened PR [#102](https://github.com/prooflinedev/cli/pull/102) in [prooflinedev/cli](https://github.com/prooflinedev/cli)
+2. 💪 Opened PR [#101](https://github.com/prooflinedev/cli/pull/101) in [prooflinedev/cli](https://github.com/prooflinedev/cli)
+3. 🎉 Merged PR [#30](https://github.com/mrpmohiburrahman/rnui.dev/pull/30) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
+4. ❗ Opened issue [#32](https://github.com/mrpmohiburrahman/rnui.dev/issues/32) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
+5. ❗ Opened issue [#31](https://github.com/mrpmohiburrahman/rnui.dev/issues/31) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
 <!--END_SECTION:activity-->
 
 
