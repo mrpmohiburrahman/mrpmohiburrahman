@@ -100,11 +100,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#102](https://github.com/prooflinedev/cli/pull/102) in [prooflinedev/cli](https://github.com/prooflinedev/cli)
-2. 💪 Opened PR [#101](https://github.com/prooflinedev/cli/pull/101) in [prooflinedev/cli](https://github.com/prooflinedev/cli)
-3. 🎉 Merged PR [#30](https://github.com/mrpmohiburrahman/rnui.dev/pull/30) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
-4. ❗ Opened issue [#32](https://github.com/mrpmohiburrahman/rnui.dev/issues/32) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
-5. ❗ Opened issue [#31](https://github.com/mrpmohiburrahman/rnui.dev/issues/31) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
+1. ❌ Closed PR [#102](https://github.com/prooflinedev/cli/pull/102) in [prooflinedev/cli](https://github.com/prooflinedev/cli)
+2. 💪 Opened PR [#102](https://github.com/prooflinedev/cli/pull/102) in [prooflinedev/cli](https://github.com/prooflinedev/cli)
+3. 💪 Opened PR [#101](https://github.com/prooflinedev/cli/pull/101) in [prooflinedev/cli](https://github.com/prooflinedev/cli)
+4. 🎉 Merged PR [#30](https://github.com/mrpmohiburrahman/rnui.dev/pull/30) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
+5. ❗ Opened issue [#32](https://github.com/mrpmohiburrahman/rnui.dev/issues/32) in [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev)
 <!--END_SECTION:activity-->
 
 
